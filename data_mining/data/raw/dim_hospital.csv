@@ -1,0 +1,1428 @@
+hospital_id,reporting_unit_code,hospital_name,state,hospital_type
+1,H0012,State Forensic Mental Health Service,Western Australia,Local Hospital Network
+2,H0013,Justice Health Services,New South Wales,Local Hospital Network
+3,H0014,The Children's Hospital at Westmead,New South Wales,Local Hospital Network
+4,H0015,Sydney Children's Hospital,New South Wales,Local Hospital Network
+5,H0016,Sacred Heart Health Service,New South Wales,Local Hospital Network
+6,H0017,St Vincent's Hospital [Darlinghurst],New South Wales,Local Hospital Network
+7,H0018,St Joseph's Hospital,New South Wales,Local Hospital Network
+8,H0019,Balmain Hospital,New South Wales,Local Hospital Network
+9,H0020,Canterbury Hospital,New South Wales,Local Hospital Network
+10,H0021,Royal Prince Alfred Hospital,New South Wales,Local Hospital Network
+11,H0022,Tresillian Care Centres,New South Wales,Local Hospital Network
+12,H0023,Concord Repatriation Hospital,New South Wales,Local Hospital Network
+13,H0024,Royal Prince Alfred Institute of Rheumatology & Orthopaedics,New South Wales,Local Hospital Network
+14,H0025,Karitane,New South Wales,Local Hospital Network
+15,H0026,Camden Hospital,New South Wales,Local Hospital Network
+16,H0027,Fairfield Hospital,New South Wales,Local Hospital Network
+17,H0028,Liverpool Hospital,New South Wales,Local Hospital Network
+18,H0029,Campbelltown Hospital,New South Wales,Local Hospital Network
+19,H0030,Bankstown Lidcombe Hospital,New South Wales,Local Hospital Network
+20,H0031,Braeside Hospital,New South Wales,Local Hospital Network
+21,H0032,Bowral Hospital,New South Wales,Local Hospital Network
+22,H0033,Sydney Hospital / Sydney Eye Hospital,New South Wales,Local Hospital Network
+23,H0034,Calvary Health Care - Sydney,New South Wales,Local Hospital Network
+24,H0035,Gower Wilson Multi Purpose Service,New South Wales,Local Hospital Network
+25,H0036,War Memorial Hospital,New South Wales,Local Hospital Network
+26,H0037,Prince of Wales Hospital,New South Wales,Local Hospital Network
+27,H0038,St George Hospital NSW,New South Wales,Local Hospital Network
+28,H0039,Sutherland Hospital,New South Wales,Local Hospital Network
+29,H0040,Royal Hospital for Women,New South Wales,Local Hospital Network
+30,H0041,Bulli Hospital,New South Wales,Local Hospital Network
+31,H0042,Coledale Hospital,New South Wales,Local Hospital Network
+32,H0043,Kiama Hospital,New South Wales,Local Hospital Network
+33,H0044,Milton Ulladulla Hospital,New South Wales,Local Hospital Network
+34,H0045,Port Kembla Hospital,New South Wales,Local Hospital Network
+35,H0046,Shoalhaven Hospital,New South Wales,Local Hospital Network
+36,H0047,Wollongong Hospital,New South Wales,Local Hospital Network
+37,H0048,Shellharbour Hospital,New South Wales,Local Hospital Network
+38,H0049,Illawarra Mental Health Services,New South Wales,Local Hospital Network
+39,H0050,David Berry Hospital,New South Wales,Local Hospital Network
+40,H0051,Auburn Hospital,New South Wales,Local Hospital Network
+41,H0052,Blacktown Hospital,New South Wales,Local Hospital Network
+42,H0053,Mount Druitt Hospital,New South Wales,Local Hospital Network
+43,H0054,Westmead Hospital,New South Wales,Local Hospital Network
+44,H0055,Blue Mountains Hospital,New South Wales,Local Hospital Network
+45,H0056,Nepean Hospital,New South Wales,Local Hospital Network
+46,H0057,Springwood Hospital,New South Wales,Local Hospital Network
+47,H0058,Hawkesbury Hospital,New South Wales,Local Hospital Network
+48,H0059,"Tresillian Family Care Centre, Kingswood",New South Wales,Local Hospital Network
+49,H0060,Wentworth Psychiatric Services,New South Wales,Local Hospital Network
+50,H0061,Lithgow Hospital,New South Wales,Local Hospital Network
+51,H0062,Portland Tabulam Health Centre,New South Wales,Local Hospital Network
+52,H0063,Greenwich Hospital,New South Wales,Local Hospital Network
+53,H0064,Neringah Hospital,New South Wales,Local Hospital Network
+54,H0065,Hornsby Ku-ring-gai Hospital,New South Wales,Local Hospital Network
+55,H0066,Manly Hospital,New South Wales,
+56,H0067,Mona Vale Hospital,New South Wales,Local Hospital Network
+57,H0068,Royal North Shore Hospital,New South Wales,Local Hospital Network
+58,H0069,Royal Rehabilitation Hospital,New South Wales,Local Hospital Network
+59,H0070,Ryde Hospital,New South Wales,Local Hospital Network
+60,H0071,Gosford Hospital,New South Wales,Local Hospital Network
+61,H0072,Woy Woy Hospital,New South Wales,Local Hospital Network
+62,H0073,Long Jetty Health Care Centre,New South Wales,Local Hospital Network
+63,H0074,Wyong Hospital,New South Wales,Local Hospital Network
+64,H0075,Armidale Hospital,New South Wales,Local Hospital Network
+65,H0076,Barraba Multi Purpose Service,New South Wales,Local Hospital Network
+66,H0077,Bingara Multi Purpose Service,New South Wales,Local Hospital Network
+67,H0078,Boggabri Multi Purpose Service,New South Wales,Local Hospital Network
+68,H0079,Glen Innes Hospital,New South Wales,Local Hospital Network
+69,H0080,Gunnedah Hospital,New South Wales,Local Hospital Network
+70,H0081,Guyra Multi Purpose Service,New South Wales,Local Hospital Network
+71,H0082,Inverell Hospital,New South Wales,Local Hospital Network
+72,H0083,Manilla Hospital,New South Wales,Local Hospital Network
+73,H0084,Moree Hospital,New South Wales,Local Hospital Network
+74,H0085,Narrabri Hospital,New South Wales,Local Hospital Network
+75,H0086,Tenterfield Hospital,New South Wales,Local Hospital Network
+76,H0087,Quirindi Hospital,New South Wales,Local Hospital Network
+77,H0088,Tamworth Hospital,New South Wales,Local Hospital Network
+78,H0089,Tingha Multi Purpose Service,New South Wales,Local Hospital Network
+79,H0090,Vegetable Creek Multi Purpose Service Emmaville,New South Wales,Local Hospital Network
+80,H0091,Walcha Multi Purpose Service,New South Wales,Local Hospital Network
+81,H0092,Warialda Multi Purpose Service,New South Wales,Local Hospital Network
+82,H0093,Wee Waa Hospital,New South Wales,Local Hospital Network
+83,H0094,Werris Creek Hospital,New South Wales,Local Hospital Network
+84,H0095,Bulahdelah Hospital,New South Wales,Local Hospital Network
+85,H0096,Gloucester Soldiers' Memorial Hospital,New South Wales,Local Hospital Network
+86,H0097,Manning Hospital,New South Wales,Local Hospital Network
+87,H0098,Wingham Hospital,New South Wales,Local Hospital Network
+88,H0099,Cessnock Hospital,New South Wales,Local Hospital Network
+89,H0100,Dungog Hospital,New South Wales,Local Hospital Network
+90,H0101,Kurri Kurri Hospital,New South Wales,Local Hospital Network
+91,H0102,Maitland Hospital,New South Wales,Local Hospital Network
+92,H0103,Merriwa Multi Purpose Service,New South Wales,Local Hospital Network
+93,H0104,Muswellbrook Hospital,New South Wales,Local Hospital Network
+94,H0105,Denman Multi Purpose Service,New South Wales,Local Hospital Network
+95,H0106,Calvary Mater Newcastle,New South Wales,Local Hospital Network
+96,H0107,Belmont Hospital,New South Wales,Local Hospital Network
+97,H0108,"Scott Memorial Hospital, Scone",New South Wales,Local Hospital Network
+98,H0109,Singleton Hospital,New South Wales,Local Hospital Network
+99,H0110,"Wilson Memorial Community Hospital, Murrurundi",New South Wales,Local Hospital Network
+100,H0111,Tomaree Community Hospital,New South Wales,Local Hospital Network
+101,H0112,John Hunter Hospital,New South Wales,Local Hospital Network
+102,H0113,Ballina District Hospital,New South Wales,Local Hospital Network
+103,H0114,Byron Bay Hospital,New South Wales,
+104,H0115,Coraki Hospital,New South Wales,
+105,H0116,Casino and District Memorial Hospital,New South Wales,Local Hospital Network
+106,H0117,Bonalbo Hospital,New South Wales,Local Hospital Network
+107,H0118,Grafton Base Hospital,New South Wales,Local Hospital Network
+108,H0119,Kyogle Multi Purpose Service,New South Wales,Local Hospital Network
+109,H0120,Lismore Base Hospital,New South Wales,Local Hospital Network
+110,H0121,Nimbin Multi Purpose Service,New South Wales,Local Hospital Network
+111,H0122,Maclean District Hospital,New South Wales,Local Hospital Network
+112,H0123,Mullumbimby Hospital,New South Wales,
+113,H0124,Murwillumbah District Hospital,New South Wales,Local Hospital Network
+114,H0125,The Tweed Hospital,New South Wales,Local Hospital Network
+115,H0126,Urbenville Multi Purpose Service,New South Wales,Local Hospital Network
+116,H0127,Riverlands Drug and Alcohol Centre,New South Wales,Local Hospital Network
+117,H0128,Bellinger River District Hospital,New South Wales,Local Hospital Network
+118,H0129,Coffs Harbour Hospital,New South Wales,Local Hospital Network
+119,H0130,Dorrigo Multi Purpose Service,New South Wales,Local Hospital Network
+120,H0131,Kempsey District Hospital,New South Wales,Local Hospital Network
+121,H0132,Macksville District Hospital,New South Wales,Local Hospital Network
+122,H0133,Wauchope District Memorial Hospital,New South Wales,Local Hospital Network
+123,H0134,Port Macquarie Base Hospital,New South Wales,Local Hospital Network
+124,H0135,Batemans Bay Hospital,New South Wales,Local Hospital Network
+125,H0136,South East Regional Hospital,New South Wales,Local Hospital Network
+126,H0137,Bombala Multi Purpose Service,New South Wales,Local Hospital Network
+127,H0138,Braidwood Multi Purpose Service,New South Wales,Local Hospital Network
+128,H0139,Cooma Hospital and Health Service,New South Wales,Local Hospital Network
+129,H0140,Crookwell District Hospital,New South Wales,Local Hospital Network
+130,H0141,Delegate Multi Purpose Service,New South Wales,Local Hospital Network
+131,H0142,Goulburn Base Hospital,New South Wales,Local Hospital Network
+132,H0143,Moruya Hospital,New South Wales,Local Hospital Network
+133,H0144,Pambula Hospital,New South Wales,Local Hospital Network
+134,H0145,Queanbeyan Hospital,New South Wales,Local Hospital Network
+135,H0146,Bourke Street Health Service,New South Wales,Local Hospital Network
+136,H0147,Yass District Hospital,New South Wales,Local Hospital Network
+137,H0149,Lake Cargelligo Multi Purpose Service,New South Wales,Local Hospital Network
+138,H0150,Wyalong Hospital,New South Wales,Local Hospital Network
+139,H0151,Barham Hospital,New South Wales,Local Hospital Network
+140,H0152,Berrigan Multi Purpose Service,New South Wales,Local Hospital Network
+141,H0153,Culcairn Multi Purpose Service,New South Wales,Local Hospital Network
+142,H0154,Corowa Health Service,New South Wales,Local Hospital Network
+143,H0155,Deniliquin Hospital,New South Wales,Local Hospital Network
+144,H0156,Finley Hospital,New South Wales,Local Hospital Network
+145,H0157,Henty Multi Purpose Service,New South Wales,Local Hospital Network
+146,H0158,Holbrook Hospital,New South Wales,Local Hospital Network
+147,H0159,Jerilderie Multi Purpose Service,New South Wales,Local Hospital Network
+148,H0160,Mercy Care Hospital - Albury,New South Wales,Local Hospital Network
+149,H0161,Urana Multi Purpose Service,New South Wales,Local Hospital Network
+150,H0162,Tocumwal Hospital,New South Wales,Local Hospital Network
+151,H0163,Tumbarumba Multi Purpose Service,New South Wales,Local Hospital Network
+152,H0164,Boorowa Multi Purpose Service,New South Wales,Local Hospital Network
+153,H0165,Mercy Care Hospital - Young,New South Wales,Local Hospital Network
+154,H0166,Murrumburrah-Harden Hospital,New South Wales,Local Hospital Network
+155,H0167,Young Hospital,New South Wales,Local Hospital Network
+156,H0168,Batlow/Adelong Multi Purpose Service,New South Wales,Local Hospital Network
+157,H0169,Griffith Base Hospital,New South Wales,Local Hospital Network
+158,H0170,Gundagai Hospital,New South Wales,Local Hospital Network
+159,H0171,Hay Hospital,New South Wales,Local Hospital Network
+160,H0172,Hillston Hospital,New South Wales,Local Hospital Network
+161,H0173,Junee Multi Purpose Service,New South Wales,Local Hospital Network
+162,H0174,Coolamon-Ganmain Multi Purpose Service,New South Wales,Local Hospital Network
+163,H0175,Leeton Hospital,New South Wales,Local Hospital Network
+164,H0176,Lockhart Hospital,New South Wales,Local Hospital Network
+165,H0177,Narrandera Hospital,New South Wales,Local Hospital Network
+166,H0178,Temora Hospital,New South Wales,Local Hospital Network
+167,H0179,Tumut Hospital,New South Wales,Local Hospital Network
+168,H0180,Wagga Wagga Hospital,New South Wales,Local Hospital Network
+169,H0181,Cootamundra Hospital,New South Wales,Local Hospital Network
+170,H0182,Bourke Multi Purpose Service,New South Wales,Local Hospital Network
+171,H0183,Brewarrina Multi Purpose Service,New South Wales,Local Hospital Network
+172,H0184,Cobar Health Service,New South Wales,Local Hospital Network
+173,H0185,Collarenebri Multi Purpose Service,New South Wales,Local Hospital Network
+174,H0186,Coolah Multi Purpose Service,New South Wales,Local Hospital Network
+175,H0187,Coonabarabran Health Service,New South Wales,Local Hospital Network
+176,H0188,Baradine Multi Purpose Service,New South Wales,Local Hospital Network
+177,H0189,Coonamble Multi Purpose Service,New South Wales,Local Hospital Network
+178,H0190,Gulargambone Multi Purpose Service,New South Wales,Local Hospital Network
+179,H0191,Dubbo Hospital,New South Wales,Local Hospital Network
+180,H0192,Dunedoo Multi Purpose Service,New South Wales,Local Hospital Network
+181,H0193,Gilgandra Multi Purpose Service,New South Wales,Local Hospital Network
+182,H0194,Gulgong Multi Purpose Service,New South Wales,Local Hospital Network
+183,H0195,Mudgee Health Service,New South Wales,Local Hospital Network
+184,H0196,Narromine Health Service,New South Wales,Local Hospital Network
+185,H0197,Nyngan Multi Purpose Service,New South Wales,Local Hospital Network
+186,H0198,Trangie Multi Purpose Service,New South Wales,Local Hospital Network
+187,H0199,Walgett Multipurpose Service,New South Wales,Local Hospital Network
+188,H0200,Warren Multi Purpose Service,New South Wales,Local Hospital Network
+189,H0201,Wellington Health Service,New South Wales,Local Hospital Network
+190,H0202,Lightning Ridge Multi Purpose Service,New South Wales,Local Hospital Network
+191,H0203,Lourdes Hospital Dubbo,New South Wales,Local Hospital Network
+192,H0204,Bathurst Base Hospital,New South Wales,Local Hospital Network
+193,H0205,Blayney Multi Purpose Service,New South Wales,Local Hospital Network
+194,H0206,Canowindra Soldiers Memorial Hospital,New South Wales,Local Hospital Network
+195,H0207,Condobolin Health Service,New South Wales,Local Hospital Network
+196,H0208,Cowra Health Service,New South Wales,Local Hospital Network
+197,H0209,Eugowra Memorial Multipurpose Service,New South Wales,Local Hospital Network
+198,H0210,Lachlan Health Service - Forbes,New South Wales,Local Hospital Network
+199,H0211,Grenfell Multi Purpose Service,New South Wales,Local Hospital Network
+200,H0212,Molong Health Service,New South Wales,Local Hospital Network
+201,H0213,Oberon Multi Purpose Service,New South Wales,Local Hospital Network
+202,H0214,Orange Health Service,New South Wales,Local Hospital Network
+203,H0215,Lachlan Health Service - Parkes,New South Wales,Local Hospital Network
+204,H0216,Peak Hill Multipurpose Service,New South Wales,Local Hospital Network
+205,H0217,Trundle Multi Purpose Health Service,New South Wales,Local Hospital Network
+206,H0218,Rylstone Multi Purpose Service,New South Wales,Local Hospital Network
+207,H0219,Tottenham Multipurpose Service,New South Wales,Local Hospital Network
+208,H0220,Tullamore Multi Purpose Health Service,New South Wales,Local Hospital Network
+209,H0221,Balranald Multi Purpose Service,New South Wales,Local Hospital Network
+210,H0222,Wentworth Hospital,New South Wales,Local Hospital Network
+211,H0223,Broken Hill Hospital,New South Wales,Local Hospital Network
+212,H0224,Wilcannia Multi Purpose Service,New South Wales,Local Hospital Network
+213,H0225,Thomas Walker Hospital,New South Wales,Local Hospital Network
+214,H0226,Cumberland Hospital,New South Wales,Local Hospital Network
+215,H0227,Macquarie Hospital,New South Wales,Local Hospital Network
+216,H0228,Coral Tree Family Centre,New South Wales,Local Hospital Network
+217,H0229,Morisset Hospital,New South Wales,Local Hospital Network
+218,H0230,Hunter New England Mental Health Service,New South Wales,Local Hospital Network
+219,H0231,Kenmore Hospital,New South Wales,Local Hospital Network
+220,H0233,Western District Health Service [Hamilton],Victoria,Local Hospital Network
+221,H0234,Western District Health Service [Penshurst],Victoria,Local Hospital Network
+222,H0235,Colac Area Health,Victoria,Local Hospital Network
+223,H0236,Hesse Rural Health Service [Winchelsea],Victoria,Local Hospital Network
+224,H0237,Otway Health & Community Services [Apollo Bay],Victoria,Local Hospital Network
+225,H0238,University Hospital Geelong,Victoria,Local Hospital Network
+226,H0239,Casterton Memorial Hospital,Victoria,Local Hospital Network
+227,H0240,Western District Health Service [Coleraine],Victoria,Local Hospital Network
+228,H0241,South West Healthcare [Warrnambool],Victoria,Local Hospital Network
+229,H0242,Beaufort & Skipton Health Service [Skipton],Victoria,Local Hospital Network
+230,H0243,Heywood Rural Health,Victoria,Local Hospital Network
+231,H0244,Timboon & District Healthcare Service,Victoria,Local Hospital Network
+232,H0245,Moyne Health Services [Port Fairy],Victoria,Local Hospital Network
+233,H0246,Portland District Health,Victoria,Local Hospital Network
+234,H0247,Lorne Community Hospital,Victoria,Local Hospital Network
+235,H0248,The McKellar Centre,Victoria,Local Hospital Network
+236,H0249,South West Healthcare [Camperdown],Victoria,Local Hospital Network
+237,H0250,Terang & Mortlake Health Service [Terang],Victoria,Local Hospital Network
+238,H0251,East Grampians Health Service [Ararat],Victoria,Local Hospital Network
+239,H0252,East Grampians Health Service [Willaura],Victoria,Local Hospital Network
+240,H0253,Rural Northwest Health [Warracknabeal],Victoria,Local Hospital Network
+241,H0254,Rural Northwest Health [Hopetoun],Victoria,Local Hospital Network
+242,H0255,Ballarat Health Services [Base Hospital],Victoria,Local Hospital Network
+243,H0256,Ballarat Health Services [Queen Elizabeth Campus],Victoria,Local Hospital Network
+244,H0257,Wimmera Base Hospital [Horsham],Victoria,Local Hospital Network
+245,H0258,West Wimmera Health Service [Rupanyup],Victoria,Local Hospital Network
+246,H0259,Stawell Regional Health,Victoria,Local Hospital Network
+247,H0260,West Wimmera Health Service [Nhill],Victoria,Local Hospital Network
+248,H0261,West Wimmera Health Service [Kaniva],Victoria,Local Hospital Network
+249,H0262,West Wimmera Health Service [Jeparit],Victoria,Local Hospital Network
+250,H0263,West Wimmera Health Service [Rainbow],Victoria,Local Hospital Network
+251,H0264,East Wimmera Health Service [St Arnaud],Victoria,Local Hospital Network
+252,H0265,Djerriwarrh Health Service [Bacchus Marsh],Victoria,Local Hospital Network
+253,H0266,Beaufort & Skipton Health Service [Beaufort],Victoria,Local Hospital Network
+254,H0267,Dimboola District Hospital,Victoria,Local Hospital Network
+255,H0268,Edenhope and District Memorial Hospital,Victoria,Local Hospital Network
+256,H0269,Melton Health,Victoria,Local Hospital Network
+257,H0270,Daylesford District Hospital,Victoria,Local Hospital Network
+258,H0271,Creswick District Hospital,Victoria,Local Hospital Network
+259,H0272,The Bendigo Hospital,Victoria,Local Hospital Network
+260,H0273,Bendigo Health Care Group [Anne Caudle],Victoria,Local Hospital Network
+261,H0274,Goulburn Valley Health [Waranga],Victoria,Local Hospital Network
+262,H0275,Kyabram & District Health Service,Victoria,Local Hospital Network
+263,H0276,Kyneton District Health Service,Victoria,Local Hospital Network
+264,H0277,Heathcote Health,Victoria,Local Hospital Network
+265,H0278,Maryborough District Health Service [Maryborough],Victoria,Local Hospital Network
+266,H0279,Maryborough District Health Service [Dunolly],Victoria,Local Hospital Network
+267,H0280,Swan Hill District Health [Swan Hill],Victoria,Local Hospital Network
+268,H0281,Swan Hill District Health [Nyah],Victoria,Local Hospital Network
+269,H0282,East Wimmera Health Service [Wycheproof],Victoria,Local Hospital Network
+270,H0283,Cohuna District Hospital,Victoria,Local Hospital Network
+271,H0284,Echuca Regional Health,Victoria,Local Hospital Network
+272,H0285,Kerang District Health,Victoria,Local Hospital Network
+273,H0286,Mildura Base Hospital,Victoria,Local Hospital Network
+274,H0287,Mallee Track Health & Community Service [Ouyen],Victoria,Local Hospital Network
+275,H0288,Maldon Hospital,Victoria,Local Hospital Network
+276,H0289,Manangatang & District Hospital,Victoria,Local Hospital Network
+277,H0290,Boort District Health,Victoria,Local Hospital Network
+278,H0291,Robinvale District Health Services,Victoria,Local Hospital Network
+279,H0292,Rochester & Elmore District Health Service,Victoria,Local Hospital Network
+280,H0293,East Wimmera Health Service [Donald],Victoria,Local Hospital Network
+281,H0294,Inglewood & District Health Service,Victoria,Local Hospital Network
+282,H0295,East Wimmera Health Service [Birchip],Victoria,Local Hospital Network
+283,H0296,East Wimmera Health Service [Charlton],Victoria,Local Hospital Network
+284,H0297,Castlemaine Health,Victoria,Local Hospital Network
+285,H0298,Goulburn Valley Health [Shepparton],Victoria,Local Hospital Network
+286,H0299,Goulburn Valley Health [Tatura],Victoria,Local Hospital Network
+287,H0300,Northeast Health Wangaratta,Victoria,Local Hospital Network
+288,H0301,Tallangatta Health Service,Victoria,Local Hospital Network
+289,H0302,Albury Wodonga Health [Wodonga Campus],Victoria,Local Hospital Network
+290,H0303,Yarrawonga Health,Victoria,Local Hospital Network
+291,H0304,Alpine Health [Myrtleford],Victoria,Local Hospital Network
+292,H0305,Alpine Health [Bright],Victoria,Local Hospital Network
+293,H0306,Alpine Health [Mount Beauty],Victoria,Local Hospital Network
+294,H0307,Corryong Health,Victoria,Local Hospital Network
+295,H0308,Seymour District Memorial Hospital,Victoria,Local Hospital Network
+296,H0309,Mansfield District Hospital,Victoria,Local Hospital Network
+297,H0310,Alexandra District Hospital,Victoria,Local Hospital Network
+298,H0311,Numurkah & District Health Service,Victoria,Local Hospital Network
+299,H0312,The Kilmore & District Hospital,Victoria,Local Hospital Network
+300,H0313,Yea & District Memorial Hospital,Victoria,Local Hospital Network
+301,H0314,Nathalia District Hospital,Victoria,Local Hospital Network
+302,H0315,Benalla & District Memorial Hospital,Victoria,Local Hospital Network
+303,H0316,Beechworth Health Service,Victoria,Local Hospital Network
+304,H0317,Cobram District Health,Victoria,Local Hospital Network
+305,H0318,Bairnsdale Regional Health Service,Victoria,Local Hospital Network
+306,H0319,West Gippsland Healthcare Group [Warragul],Victoria,Local Hospital Network
+307,H0320,Bass Coast Health,Victoria,Local Hospital Network
+308,H0321,Yarram & District Health Service,Victoria,Local Hospital Network
+309,H0322,Omeo District Health,Victoria,Local Hospital Network
+310,H0323,Central Gippsland Health Service [Sale],Victoria,Local Hospital Network
+311,H0324,Gippsland Southern Health Service - Korumburra,Victoria,Local Hospital Network
+312,H0325,Gippsland Southern Health Service - Leongatha,Victoria,Local Hospital Network
+313,H0326,Latrobe Regional Hospital [Traralgon],Victoria,Local Hospital Network
+314,H0327,Central Gippsland Health Service [Maffra],Victoria,Local Hospital Network
+315,H0328,South Gippsland Hospital [Foster],Victoria,Local Hospital Network
+316,H0329,Orbost Regional Health,Victoria,Local Hospital Network
+317,H0330,Box Hill Hospital,Victoria,Local Hospital Network
+318,H0331,Monash Medical Centre [Clayton],Victoria,Local Hospital Network
+319,H0332,Maroondah Hospital [East Ringwood],Victoria,Local Hospital Network
+320,H0333,Angliss Hospital,Victoria,Local Hospital Network
+321,H0334,St George's Health Service- Aged Care,Victoria,Local Hospital Network
+322,H0335,Caritas Christi Hospice [Kew],Victoria,Local Hospital Network
+323,H0336,Mercy Health - O'Connell Family Centre,Victoria,Local Hospital Network
+324,H0337,The Peter James Centre [East Burwood],Victoria,Local Hospital Network
+325,H0338,Wantirna Health,Victoria,Local Hospital Network
+326,H0339,Royal Talbot Rehabilitation Centre [Kew],Victoria,Local Hospital Network
+327,H0340,Healesville Hospital and Yarra Valley Health,Victoria,Local Hospital Network
+328,H0341,Yarra Ranges Health,Victoria,Local Hospital Network
+329,H0342,Monash Medical Centre [Moorabbin],Victoria,Local Hospital Network
+330,H0343,Rosebud Hospital,Victoria,Local Hospital Network
+331,H0344,Sandringham Hospital,Victoria,Local Hospital Network
+332,H0345,Caulfield Hospital,Victoria,Local Hospital Network
+333,H0346,Kooweerup Regional Health Service,Victoria,Local Hospital Network
+334,H0347,Kingston Centre [Cheltenham],Victoria,Local Hospital Network
+335,H0348,Dandenong Hospital,Victoria,Local Hospital Network
+336,H0349,Cranbourne Integrated Care Centre,Victoria,Local Hospital Network
+337,H0350,Frankston Hospital,Victoria,Local Hospital Network
+338,H0351,Calvary Health Care Bethlehem,Victoria,Local Hospital Network
+339,H0352,Queen Elizabeth Centre [Noble Park],Victoria,Local Hospital Network
+340,H0353,Casey Hospital,Victoria,Local Hospital Network
+341,H0354,Mount Eliza Aged Care & Rehabilitation Service,Victoria,
+342,H0355,Rosebud Rehabilitation Unit,Victoria,
+343,H0356,Golf Links Road Rehabilitation Centre,Victoria,Local Hospital Network
+344,H0357,The Mornington Centre,Victoria,Local Hospital Network
+345,H0358,The Alfred,Victoria,Local Hospital Network
+346,H0359,Austin Hospital [Heidelberg],Victoria,Local Hospital Network
+347,H0360,Heidelberg Repatriation Hospital [Heidelberg West],Victoria,Local Hospital Network
+348,H0361,Bundoora Extended Care Centre,Victoria,Local Hospital Network
+349,H0362,Mercy Hospital for Women,Victoria,Local Hospital Network
+350,H0363,Western Hospital [Footscray],Victoria,Local Hospital Network
+351,H0364,Royal Children's Hospital [Parkville],Victoria,Local Hospital Network
+352,H0365,Royal Children's Hospital [Travancore Psych],Victoria,
+353,H0366,Royal Women's Hospital [Parkville],Victoria,Local Hospital Network
+354,H0367,The Royal Victorian Eye & Ear Hospital,Victoria,Local Hospital Network
+355,H0368,The Northern Hospital [Epping],Victoria,Local Hospital Network
+356,H0369,Werribee Mercy Hospital,Victoria,Local Hospital Network
+357,H0370,Orygen Inpatient Unit,Victoria,Local Hospital Network
+358,H0371,Royal Melbourne Hospital [City Campus],Victoria,Local Hospital Network
+359,H0372,Royal Melbourne Hospital [Royal Park Campus],Victoria,Local Hospital Network
+360,H0373,Sunshine Hospital,Victoria,Local Hospital Network
+361,H0374,St Vincent's Hospital [Melbourne],Victoria,Local Hospital Network
+362,H0375,Williamstown Hospital,Victoria,Local Hospital Network
+363,H0376,Peter MacCallum Cancer Centre,Victoria,Local Hospital Network
+364,H0377,Tweddle Child & Family Health Centre [Footscray],Victoria,Local Hospital Network
+365,H0378,Sunbury Day Hospital,Victoria,Local Hospital Network
+366,H0379,Broadmeadows Health Service,Victoria,Local Hospital Network
+367,H0380,Craigieburn Health Service,Victoria,Local Hospital Network
+368,H0381,The Royal Dental Hospital of Melbourne,Victoria,Local Hospital Network
+369,H0382,Albury Wodonga Health [Albury Campus],New South Wales,Local Hospital Network
+370,H0383,Victorian Institute of Forensic Mental Health,Victoria,Local Hospital Network
+371,H0384,Victorian Institute of Forensic Mental Health Prison Health Service,Victoria,Local Hospital Network
+372,H0385,Mater Adult Hospital,Queensland,Local Hospital Network
+373,H0386,Mater Children's Hospital,Queensland,
+374,H0387,Mater Mothers' Hospital,Queensland,Local Hospital Network
+375,H0388,The Prince Charles Hospital,Queensland,Local Hospital Network
+376,H0389,Royal Children's Hospital [Queensland],Queensland,
+377,H0390,Princess Alexandra Hospital,Queensland,Local Hospital Network
+378,H0391,Ipswich Hospital,Queensland,Local Hospital Network
+379,H0392,Redcliffe Hospital,Queensland,Local Hospital Network
+380,H0393,Ellen Barron Family Centre,Queensland,Local Hospital Network
+381,H0394,Queen Elizabeth II Jubilee Hospital,Queensland,Local Hospital Network
+382,H0395,Wynnum Health Service,Queensland,
+383,H0397,Redland Hospital,Queensland,Local Hospital Network
+384,H0398,Logan Hospital,Queensland,Local Hospital Network
+385,H0399,Caboolture Hospital,Queensland,Local Hospital Network
+386,H0400,Beaudesert Hospital,Queensland,Local Hospital Network
+387,H0401,Boonah Hospital,Queensland,Local Hospital Network
+388,H0402,Caloundra Hospital,Queensland,Local Hospital Network
+389,H0403,Esk Hospital,Queensland,Local Hospital Network
+390,H0404,Gatton Hospital,Queensland,Local Hospital Network
+391,H0405,Kilcoy Hospital,Queensland,Local Hospital Network
+392,H0406,Laidley Hospital,Queensland,Local Hospital Network
+393,H0407,Maleny Hospital,Queensland,Local Hospital Network
+394,H0408,Nambour General Hospital,Queensland,Local Hospital Network
+395,H0409,Gold Coast University Hospital,Queensland,Local Hospital Network
+396,H0410,Biggenden Hospital,Queensland,Local Hospital Network
+397,H0411,Bundaberg Base Hospital,Queensland,Local Hospital Network
+398,H0412,Cherbourg Hospital,Queensland,Local Hospital Network
+399,H0413,Childers Hospital,Queensland,Local Hospital Network
+400,H0414,Eidsvold Hospital,Queensland,Local Hospital Network
+401,H0415,Gayndah Hospital,Queensland,Local Hospital Network
+402,H0416,Gin Gin Hospital,Queensland,Local Hospital Network
+403,H0417,Gympie Hospital,Queensland,Local Hospital Network
+404,H0418,Hervey Bay Hospital,Queensland,Local Hospital Network
+405,H0419,Kingaroy Hospital,Queensland,Local Hospital Network
+406,H0420,Maryborough Hospital,Queensland,Local Hospital Network
+407,H0421,Monto Hospital,Queensland,Local Hospital Network
+408,H0423,Mundubbera Hospital,Queensland,Local Hospital Network
+409,H0424,Murgon Hospital,Queensland,Local Hospital Network
+410,H0425,Nanango Hospital,Queensland,Local Hospital Network
+411,H0426,Wondai Hospital,Queensland,Local Hospital Network
+412,H0427,Chinchilla Hospital,Queensland,Local Hospital Network
+413,H0428,Dalby Hospital,Queensland,Local Hospital Network
+414,H0429,Goondiwindi Hospital,Queensland,Local Hospital Network
+415,H0430,Inglewood Hospital,Queensland,Local Hospital Network
+416,H0431,Jandowae Hospital,Queensland,Local Hospital Network
+417,H0432,Miles Hospital,Queensland,Local Hospital Network
+418,H0433,Millmerran Hospital,Queensland,Local Hospital Network
+419,H0434,Oakey Hospital,Queensland,Local Hospital Network
+420,H0435,Stanthorpe Hospital,Queensland,Local Hospital Network
+421,H0436,Tara Hospital,Queensland,Local Hospital Network
+422,H0437,Taroom Hospital,Queensland,Local Hospital Network
+423,H0438,Texas Hospital,Queensland,Local Hospital Network
+424,H0439,Toowoomba Hospital,Queensland,Local Hospital Network
+425,H0440,Warwick Hospital,Queensland,Local Hospital Network
+426,H0441,Augathella Hospital,Queensland,Local Hospital Network
+427,H0442,Charleville Hospital,Queensland,Local Hospital Network
+428,H0443,Cunnamulla Hospital,Queensland,Local Hospital Network
+429,H0444,Dirranbandi Hospital,Queensland,Local Hospital Network
+430,H0445,Injune Hospital,Queensland,Local Hospital Network
+431,H0446,Mitchell Hospital,Queensland,Local Hospital Network
+432,H0447,Mungindi Hospital,Queensland,Local Hospital Network
+433,H0448,Quilpie Hospital,Queensland,Local Hospital Network
+434,H0449,Roma Hospital,Queensland,Local Hospital Network
+435,H0450,St George Hospital Qld,Queensland,Local Hospital Network
+436,H0451,Surat Hospital,Queensland,Local Hospital Network
+437,H0452,Alpha Hospital,Queensland,Local Hospital Network
+438,H0453,Baralaba Hospital,Queensland,Local Hospital Network
+439,H0454,Biloela Hospital,Queensland,Local Hospital Network
+440,H0455,Blackwater Hospital,Queensland,Local Hospital Network
+441,H0456,Emerald Hospital,Queensland,Local Hospital Network
+442,H0457,Gladstone Hospital,Queensland,Local Hospital Network
+443,H0458,Mount Morgan Hospital,Queensland,Local Hospital Network
+444,H0459,Moura Hospital,Queensland,Local Hospital Network
+445,H0460,Rockhampton Hospital,Queensland,Local Hospital Network
+446,H0461,Springsure Hospital,Queensland,Local Hospital Network
+447,H0462,Theodore Hospital,Queensland,Local Hospital Network
+448,H0463,Capricorn Coast Hospital,Queensland,Local Hospital Network
+449,H0464,Woorabinda Hospital,Queensland,Local Hospital Network
+450,H0466,Barcaldine Hospital,Queensland,Local Hospital Network
+451,H0467,Blackall Hospital,Queensland,Local Hospital Network
+452,H0470,Longreach Hospital,Queensland,Local Hospital Network
+453,H0473,Winton Hospital,Queensland,Local Hospital Network
+454,H0476,Clermont Hospital,Queensland,Local Hospital Network
+455,H0477,Mackay Base Hospital,Queensland,Local Hospital Network
+456,H0478,Moranbah Hospital,Queensland,Local Hospital Network
+457,H0479,Proserpine Hospital,Queensland,Local Hospital Network
+458,H0480,Sarina Hospital,Queensland,Local Hospital Network
+459,H0481,Dysart Hospital,Queensland,Local Hospital Network
+460,H0482,Ayr Hospital,Queensland,Local Hospital Network
+461,H0483,Bowen Hospital,Queensland,Local Hospital Network
+462,H0484,Charters Towers Hospital,Queensland,Local Hospital Network
+463,H0485,Collinsville Hospital,Queensland,Local Hospital Network
+464,H0486,Home Hill Hospital,Queensland,Local Hospital Network
+465,H0487,Ingham Hospital,Queensland,Local Hospital Network
+466,H0488,Joyce Palmer Health Service,Queensland,Local Hospital Network
+467,H0489,Townsville University Hospital,Queensland,Local Hospital Network
+468,H0490,Royal Brisbane & Women's Hospital,Queensland,Local Hospital Network
+469,H0491,Atherton Hospital,Queensland,Local Hospital Network
+470,H0492,Babinda Hospital,Queensland,Local Hospital Network
+471,H0493,Bamaga Hospital,Queensland,Local Hospital Network
+472,H0494,Cairns Hospital,Queensland,Local Hospital Network
+473,H0496,Cooktown Hospital,Queensland,Local Hospital Network
+474,H0500,Gordonvale Hospital,Queensland,Local Hospital Network
+475,H0501,Herberton Hospital,Queensland,Local Hospital Network
+476,H0502,Innisfail Hospital,Queensland,Local Hospital Network
+477,H0503,Mareeba Hospital,Queensland,Local Hospital Network
+478,H0504,Mossman Hospital,Queensland,Local Hospital Network
+479,H0506,Thursday Island Hospital,Queensland,Local Hospital Network
+480,H0507,Tully Hospital,Queensland,Local Hospital Network
+481,H0508,Weipa Hospital,Queensland,Local Hospital Network
+482,H0516,Cloncurry Hospital,Queensland,Local Hospital Network
+483,H0517,Hughenden Hospital,Queensland,Local Hospital Network
+484,H0518,Julia Creek Hospital,Queensland,Local Hospital Network
+485,H0519,Mount Isa Base Hospital,Queensland,Local Hospital Network
+486,H0520,Normanton Hospital,Queensland,Local Hospital Network
+487,H0521,Richmond Hospital,Queensland,Local Hospital Network
+488,H0522,Mornington Island Hospital,Queensland,Local Hospital Network
+489,H0525,Doomadgee Hospital,Queensland,Local Hospital Network
+490,H0534,Baillie Henderson Hospital,Queensland,Local Hospital Network
+491,H0535,Charters Towers Rehabilitation Unit,Queensland,Local Hospital Network
+492,H0536,Kirwan Rehabilitation Unit,Queensland,Local Hospital Network
+493,H0537,The Park Centre For Mental Health,Queensland,Local Hospital Network
+494,H0538,Hampstead Rehabilitation Centre,South Australia,Local Hospital Network
+495,H0539,The Queen Elizabeth Hospital,South Australia,Local Hospital Network
+496,H0540,Royal Adelaide Hospital,South Australia,Local Hospital Network
+497,H0541,Lyell McEwin Hospital,South Australia,Local Hospital Network
+498,H0542,Modbury Hospital,South Australia,Local Hospital Network
+499,H0543,Pregnancy Advisory Centre,South Australia,Local Hospital Network
+500,H0544,St Margaret's Hospital,South Australia,Local Hospital Network
+501,H0545,Women's and Children's Hospital,South Australia,Local Hospital Network
+502,H0546,Wudinna Hospital,South Australia,Local Hospital Network
+503,H0547,Cleve District Hospital and Aged Care,South Australia,Local Hospital Network
+504,H0548,Cowell District Hospital and Aged Care,South Australia,Local Hospital Network
+505,H0549,Cummins and District Memorial Hospital,South Australia,Local Hospital Network
+506,H0550,Elliston Hospital,South Australia,Local Hospital Network
+507,H0551,Kimba District Hospital and Aged Care,South Australia,Local Hospital Network
+508,H0552,Ceduna District Health Service,South Australia,Local Hospital Network
+509,H0553,Port Lincoln Health Service,South Australia,Local Hospital Network
+510,H0554,Streaky Bay Hospital,South Australia,Local Hospital Network
+511,H0555,Tumby Bay Hospital and Health Services,South Australia,Local Hospital Network
+512,H0556,Gumeracha District Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+513,H0557,Kangaroo Island Health Service,South Australia,Local Hospital Network
+514,H0558,Karoonda and District Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+515,H0559,Lameroo District Health Service,South Australia,Local Hospital Network
+516,H0560,Tailem Bend District Hospital,South Australia,Local Hospital Network
+517,H0561,Mannum District Hospital,South Australia,Local Hospital Network
+518,H0562,Meningie and Districts Memorial Hospital and Health Services,South Australia,Local Hospital Network
+519,H0563,Mount Barker District Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+520,H0564,Mount Pleasant District Hospital,South Australia,Local Hospital Network
+521,H0565,Murray Bridge Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+522,H0566,Pinnaroo Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+523,H0567,South Coast District Hospital,South Australia,Local Hospital Network
+524,H0568,Strathalbyn and District Health Service,South Australia,Local Hospital Network
+525,H0569,Booleroo Centre District Hospital and Health Services,South Australia,Local Hospital Network
+526,H0570,Crystal Brook and District Hospital,South Australia,Local Hospital Network
+527,H0571,Jamestown Hospital and Health Service,South Australia,Local Hospital Network
+528,H0572,Laura and District Hospital,South Australia,Local Hospital Network
+529,H0573,Orroroo and District Health Service,South Australia,Local Hospital Network
+530,H0574,Peterborough Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+531,H0575,Port Broughton and District Hospital and Health Service,South Australia,Local Hospital Network
+532,H0576,Port Pirie Regional Health Service,South Australia,Local Hospital Network
+533,H0577,McLaren Vale & Districts War Memorial Hospital Inc,South Australia,Local Hospital Network
+534,H0578,Coober Pedy Hospital and Health Service,South Australia,Local Hospital Network
+535,H0579,Hawker Memorial Hospital,South Australia,Local Hospital Network
+536,H0580,Leigh Creek Health Service,South Australia,
+537,H0583,Port Augusta Hospital and Regional Health Services,South Australia,Local Hospital Network
+538,H0584,Quorn Health Service,South Australia,Local Hospital Network
+539,H0585,Roxby Downs Health Service,South Australia,Local Hospital Network
+540,H0587,Whyalla Hospital and Health Services,South Australia,Local Hospital Network
+541,H0588,Barmera Health Service,South Australia,Local Hospital Network
+542,H0589,Riverland General Hospital,South Australia,Local Hospital Network
+543,H0590,Loxton Hospital Complex,South Australia,Local Hospital Network
+544,H0591,Renmark Paringa District Hospital,South Australia,Local Hospital Network
+545,H0592,Waikerie Health Service,South Australia,Local Hospital Network
+546,H0593,Bordertown Memorial Hospital,South Australia,Local Hospital Network
+547,H0594,Kingston Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+548,H0595,Millicent and District Hospital and Health Service,South Australia,Local Hospital Network
+549,H0596,Mount Gambier and Districts Health Service,South Australia,Local Hospital Network
+550,H0597,Naracoorte Health Service,South Australia,Local Hospital Network
+551,H0598,Penola War Memorial Hospital,South Australia,Local Hospital Network
+552,H0600,Flinders Medical Centre,South Australia,Local Hospital Network
+553,H0601,Repatriation General Hospital,South Australia,
+554,H0602,Noarlunga Hospital,South Australia,Local Hospital Network
+555,H0603,Gawler Health Service,South Australia,Local Hospital Network
+556,H0604,Angaston District Hospital,South Australia,Local Hospital Network
+557,H0605,Balaklava Soldiers' Memorial District Hospital,South Australia,Local Hospital Network
+558,H0606,Burra Hospital,South Australia,Local Hospital Network
+559,H0607,Clare Hospital,South Australia,Local Hospital Network
+560,H0608,Eudunda Hospital,South Australia,Local Hospital Network
+561,H0609,Kapunda Hospital,South Australia,Local Hospital Network
+562,H0610,Central Yorke Peninsula Hospital (Maitland),South Australia,Local Hospital Network
+563,H0611,Riverton District Soldiers' Memorial Hospital,South Australia,Local Hospital Network
+564,H0612,Snowtown Hospital and Health Service,South Australia,Local Hospital Network
+565,H0613,Southern Yorke Peninsula Health Service (Yorketown),South Australia,Local Hospital Network
+566,H0614,Tanunda War Memorial Hospital,South Australia,Local Hospital Network
+567,H0702,Bunbury Hospital,Western Australia,Local Hospital Network
+568,H0615,Northern Yorke Peninsula Health Service (Wallaroo),South Australia,Local Hospital Network
+569,H0617,Oakden Hospital,South Australia,
+570,H0618,Glenside Health Services,South Australia,Local Hospital Network
+571,H0619,Princess Margaret Hospital for Children,Western Australia,
+572,H0620,King Edward Memorial Hospital,Western Australia,Local Hospital Network
+573,H0621,Sir Charles Gairdner Hospital,Western Australia,Local Hospital Network
+574,H0623,Selby Authorised Lodge,Western Australia,Local Hospital Network
+575,H0624,Osborne Park Hospital,Western Australia,Local Hospital Network
+576,H0625,Swan District Hospital,Western Australia,
+577,H0626,Kalamunda Hospital,Western Australia,Local Hospital Network
+578,H0627,"Next Step Drug And Alcohol Services, East Perth",Western Australia,Local Hospital Network
+579,H0628,Joondalup Health Campus (Public),Western Australia,Local Hospital Network
+580,H0631,Royal Perth Hospital Shenton Park Campus,Western Australia,
+581,H0632,Royal Perth Hospital Wellington Street Campus,Western Australia,Local Hospital Network
+582,H0633,Fremantle Hospital and Health Service,Western Australia,Local Hospital Network
+583,H0634,Kaleeya Hospital,Western Australia,
+584,H0635,Armadale-Kelmscott Memorial Hospital,Western Australia,Local Hospital Network
+585,H0636,Bentley Health Service,Western Australia,Local Hospital Network
+586,H0637,Rockingham General Hospital,Western Australia,Local Hospital Network
+587,H0638,Murray District Hospital,Western Australia,Local Hospital Network
+588,H0639,Peel Health Campus,Western Australia,Local Hospital Network
+589,H0642,Fitzroy Crossing Hospital,Western Australia,Local Hospital Network
+590,H0643,Halls Creek Hospital,Western Australia,Local Hospital Network
+591,H0644,Broome Hospital,Western Australia,Local Hospital Network
+592,H0645,Derby Hospital,Western Australia,Local Hospital Network
+593,H0646,Wyndham Hospital,Western Australia,Local Hospital Network
+594,H0647,Kununurra Hospital,Western Australia,Local Hospital Network
+595,H0648,Hedland Health Campus,Western Australia,Local Hospital Network
+596,H0649,Onslow Hospital,Western Australia,Local Hospital Network
+597,H0650,Roebourne Hospital,Western Australia,Local Hospital Network
+598,H0651,Tom Price Hospital,Western Australia,Local Hospital Network
+599,H0652,Newman Hospital,Western Australia,Local Hospital Network
+600,H0653,Paraburdoo Hospital,Western Australia,Local Hospital Network
+601,H0654,Nickol Bay Hospital,Western Australia,
+602,H0655,Carnarvon Hospital,Western Australia,Local Hospital Network
+603,H0656,Exmouth Hospital,Western Australia,Local Hospital Network
+604,H0657,Geraldton Hospital,Western Australia,Local Hospital Network
+605,H0658,Meekatharra Hospital,Western Australia,Local Hospital Network
+606,H0659,Morawa Health Service,Western Australia,Local Hospital Network
+607,H0660,Mullewa Health Service,Western Australia,Local Hospital Network
+608,H0661,Northampton Kalbarri Health Service,Western Australia,Local Hospital Network
+609,H0662,North Midlands Health Service,Western Australia,Local Hospital Network
+610,H0663,Kalbarri Health Centre,Western Australia,Local Hospital Network
+611,H0664,Dongara Eneabba Mingenew Health Service,Western Australia,Local Hospital Network
+612,H0665,Lake Grace Hospital,Western Australia,Local Hospital Network
+613,H0666,Merredin Hospital,Western Australia,Local Hospital Network
+614,H0667,Narrogin Hospital,Western Australia,Local Hospital Network
+615,H0668,Northam Hospital,Western Australia,Local Hospital Network
+616,H0669,Wagin Hospital,Western Australia,Local Hospital Network
+617,H0670,York Hospital,Western Australia,Local Hospital Network
+618,H0671,Beverley Hospital,Western Australia,Local Hospital Network
+619,H0672,Boddington Hospital,Western Australia,Local Hospital Network
+620,H0673,Bruce Rock Memorial Hospital,Western Australia,Local Hospital Network
+621,H0674,Corrigin Hospital,Western Australia,Local Hospital Network
+622,H0675,Cunderdin Hospital,Western Australia,
+623,H0676,Dalwallinu Hospital,Western Australia,Local Hospital Network
+624,H0677,Dumbleyung Memorial Hospital,Western Australia,Local Hospital Network
+625,H0678,Kellerberrin Memorial Hospital,Western Australia,Local Hospital Network
+626,H0679,Goomalling Hospital,Western Australia,Local Hospital Network
+627,H0680,Kondinin Hospital,Western Australia,Local Hospital Network
+628,H0681,Kununoppin Health Service,Western Australia,Local Hospital Network
+629,H0682,Moora Hospital,Western Australia,Local Hospital Network
+630,H0683,Narembeen Memorial Hospital,Western Australia,Local Hospital Network
+631,H0684,Pingelly Health Centre,Western Australia,Local Hospital Network
+632,H0685,Southern Cross Hospital,Western Australia,Local Hospital Network
+633,H0686,Wongan Hills Hospital,Western Australia,Local Hospital Network
+634,H0687,Wyalkatchem-Koorda and Districts Hospital,Western Australia,Local Hospital Network
+635,H0688,Quairading Hospital,Western Australia,Local Hospital Network
+636,H0689,Esperance Hospital,Western Australia,Local Hospital Network
+637,H0690,Kalgoorlie Health Campus,Western Australia,Local Hospital Network
+638,H0691,Laverton Hospital,Western Australia,Local Hospital Network
+639,H0692,Leonora Hospital,Western Australia,Local Hospital Network
+640,H0693,Norseman Hospital,Western Australia,Local Hospital Network
+641,H0694,Albany Hospital,Western Australia,Local Hospital Network
+642,H0695,Denmark Hospital and Health Service,Western Australia,Local Hospital Network
+643,H0696,Katanning Hospital,Western Australia,Local Hospital Network
+644,H0697,Gnowangerup Hospital,Western Australia,Local Hospital Network
+645,H0698,Plantagenet Hospital,Western Australia,Local Hospital Network
+646,H0699,Ravensthorpe Health Centre,Western Australia,Local Hospital Network
+647,H0700,Kojonup Hospital,Western Australia,Local Hospital Network
+648,H0701,Augusta Hospital,Western Australia,Local Hospital Network
+649,H0703,Busselton Health Campus,Western Australia,Local Hospital Network
+650,H0704,Collie Hospital,Western Australia,Local Hospital Network
+651,H0705,Margaret River Hospital,Western Australia,Local Hospital Network
+652,H0706,Donnybrook Hospital,Western Australia,Local Hospital Network
+653,H0707,Harvey Hospital,Western Australia,Local Hospital Network
+654,H0708,Nannup Hospital,Western Australia,Local Hospital Network
+655,H0709,Pemberton Hospital,Western Australia,Local Hospital Network
+656,H0710,Boyup Brook Soldiers Memorial Hospital,Western Australia,Local Hospital Network
+657,H0711,Warren Hospital,Western Australia,Local Hospital Network
+658,H0712,Bridgetown Hospital,Western Australia,Local Hospital Network
+659,H0713,Graylands Selby-Lemnos and Special Care Health Service,Western Australia,Local Hospital Network
+660,H0714,Royal Hobart Hospital,Tasmania,Local Hospital Network
+661,H0721,Launceston General Hospital,Tasmania,Local Hospital Network
+662,H0731,North West Regional Hospital,Tasmania,Local Hospital Network
+663,H0735,Mersey Community Hospital,Tasmania,Local Hospital Network
+664,H0737,Royal Darwin Hospital,Northern Territory,Local Hospital Network
+665,H0738,Alice Springs Hospital,Northern Territory,Local Hospital Network
+666,H0739,Tennant Creek Hospital,Northern Territory,Local Hospital Network
+667,H0740,Katherine Hospital,Northern Territory,Local Hospital Network
+668,H0741,Gove Hospital,Northern Territory,Local Hospital Network
+669,H0742,The Canberra Hospital,Australian Capital Territory,Local Hospital Network
+670,H0743,North Canberra Hospital (previously known as Calvary Public Hospital Bruce),Australian Capital Territory,Local Hospital Network
+671,H0744,Robina Hospital,Queensland,Local Hospital Network
+672,H0745,Queensland Children's Hospital,Queensland,Local Hospital Network
+673,H0746,Fiona Stanley Hospital,Western Australia,Local Hospital Network
+674,H0747,St John of God Midland Public Hospital,Western Australia,Local Hospital Network
+675,H0748,Byron Central Hospital,New South Wales,Local Hospital Network
+676,H0749,Women's at Sandringham,Victoria,Local Hospital Network
+677,H0750,Sunshine Coast University Hospital,Queensland,Local Hospital Network
+678,H0751,Perth Children's Hospital,Western Australia,Local Hospital Network
+679,H0752,Karratha Health Campus,Western Australia,Local Hospital Network
+680,H0753,Northern Beaches Hospital,New South Wales,Local Hospital Network
+681,H0754,Palmerston Regional Hospital,Northern Territory,Local Hospital Network
+682,H1005,Careplans Assessment Victoria,Victoria,
+683,H1008,Cudal Health Service,New South Wales,
+684,H1009,Dame Phyllis Frost Centre - Marmak unit,Victoria,Local Hospital Network
+685,H1016,Goodooga Health Service,New South Wales,Local Hospital Network
+686,H1018,Ivanhoe Hospital,New South Wales,Local Hospital Network
+687,H1024,Menindee Health Service,New South Wales,Local Hospital Network
+688,H1028,QEII Family Centre,Australian Capital Territory,Local Hospital Network
+689,H1034,Sydney Dental Hospital,New South Wales,Local Hospital Network
+690,H1035,Sydney Road Clinic,Victoria,
+691,H1038,Tibooburra Health Service,New South Wales,Local Hospital Network
+692,H1046,Mallee Track Health & Community Service [Sea Lake],Victoria,Local Hospital Network
+693,H1047,Ursula Frayne Centre,Victoria,Local Hospital Network
+694,H1048,Surgical Treatment and Rehabilitation Service,Queensland,Local Hospital Network
+695,H1049,St Vincent's On the Park,Victoria,Local Hospital Network
+696,H1050,Jacaranda Place Queensland Adolescent Extended Treatment Centre,Queensland,Local Hospital Network
+697,H1051,James Nash House,South Australia,Local Hospital Network
+698,H1052,University of Canberra Hospital,Australian Capital Territory,Local Hospital Network
+699,H1053,Glenside Rural & Remote,South Australia,Local Hospital Network
+700,H1054,Victorian Heart Hospital,Victoria,Local Hospital Network
+701,H1055,Blackburn Public Surgical Centre,Victoria,Local Hospital Network
+702,H1056,Frankston Public Surgical Centre,Victoria,Local Hospital Network
+703,H1057,Sandringham Monash,Victoria,Local Hospital Network
+704,H1058,Adolescent and Young Adult Hospice Manly,New South Wales,Local Hospital Network
+705,H1059,North Canberra Hospital,Australian Capital Territory,Local Hospital Network
+706,H1060,Casey Early Parenting Centre,Victoria,Local Hospital Network
+707,H1061,Wyndham Early Parenting Centre,Victoria,Local Hospital Network
+708,H1062,Whittlesea Early Parenting Centre,Victoria,Local Hospital Network
+709,H1063,St James Transitional Care Unit,Western Australia,Local Hospital Network
+710,H1064,White Cliffs Health Service,New South Wales,Local Hospital Network
+711,H1065,Barwon Health North,Victoria,Local Hospital Network
+712,H1066,Wayipunga Early Parenting Centre,Victoria,Local Hospital Network
+713,H1067,Goulburn Valley Health [Euroa],Victoria,Local Hospital Network
+714,H5002,Adelaide Day Surgery Pty Ltd,South Australia,
+715,H5003,Adelaide Eye & Laser Centre,South Australia,
+716,H5004,Aesthetic Day Surgery,New South Wales,
+717,H5005,Albert Road Clinic,Victoria,
+718,H5006,Albury Wodonga Private Hospital,New South Wales,
+719,H5009,Armidale Private Hospital,New South Wales,
+720,H5010,Ashford Hospital,South Australia,
+721,H5011,Attadale Rehabilitation Hospital,Western Australia,
+722,H5013,Ballina Day Surgery,New South Wales,
+723,H5014,Baringa Private Hospital,New South Wales,
+724,H5015,Bathurst Private Hospital,New South Wales,
+725,H5017,Beleura Private Hospital,Victoria,
+726,H5018,Bellbird Private Hospital,Victoria,
+727,H5019,Berkeley Vale Private Hospital,New South Wales,
+728,H5021,Bethesda Hospital,Western Australia,
+729,H5024,Brisbane Private Hospital,Queensland,
+730,H5025,Brisbane Waters Private Hospital,New South Wales,
+731,H5026,Caboolture Private Hospital,Queensland,
+732,H5027,Cabrini Brighton,Victoria,
+733,H5152,North Shore Private Hospital,New South Wales,
+734,H5028,Cabrini Health Elsternwick Rehabilitation - Glenhuntly Rd,Victoria,
+735,H5029,Cabrini Health Elsternwick Rehabilitation - Hopetoun,Victoria,
+736,H5030,Cabrini Malvern,Victoria,
+737,H5031,Cabrini Prahran,Victoria,
+738,H5032,Ramsay Surgical Centre Cairns,Queensland,
+739,H5033,Cairns Private Hospital,Queensland,
+740,H5034,Ramsay Clinic Caloundra,Queensland,
+741,H5035,Calvary Central Districts Hospital,South Australia,
+742,H5036,Calvary Health Care Riverina,New South Wales,
+743,H5037,Calvary - Lenah Valley Hospital,Tasmania,
+744,H5038,Calvary - St John's Hospital,Tasmania,
+745,H5039,Calvary - St Luke's Hospital,Tasmania,
+746,H5040,Calvary - St Vincent's Hospital,Tasmania,
+747,H5041,Calvary John James Hospital,Australian Capital Territory,
+748,H5042,Calvary North Adelaide Hospital,South Australia,
+749,H5043,Calvary Bruce Private Hospital,Australian Capital Territory,
+750,H5044,Calvary Rehabilitation Hospital,South Australia,
+751,H5046,Campbelltown Private Hospital,New South Wales,
+752,H5047,Canberra Imaging Group Angiography/Interventional Suite,Australian Capital Territory,
+753,H5050,Castlecrag Private Hospital,New South Wales,
+754,H5051,Central Coast Day Hospital,New South Wales,
+755,H5055,Colin Street Day Hospital,Western Australia,
+756,H5057,Coolenberg Day Surgery,New South Wales,
+757,H5058,Cotham Private Hospital,Victoria,
+758,H5059,Dalcross Adventist Hospital,New South Wales,
+759,H5060,Darwin Private Hospital,Northern Territory,
+760,H5062,Diagnostic Endoscopy Centre,New South Wales,
+761,H5063,Donvale Rehabilitation Hospital,Victoria,
+762,H5064,Dorset Rehabilitation Centre,Victoria,
+763,H5065,Dudley Private Hospital,New South Wales,
+764,H5067,Epping Surgery Centre,New South Wales,
+765,H5068,Epworth Cliveden,Victoria,
+766,H5069,Epworth Eastern,Victoria,
+767,H5070,Epworth Freemasons [Albert Street],Victoria,
+768,H5071,Epworth Freemasons [Victoria Parade],Victoria,
+769,H5072,Epworth Rehabilitation Brighton,Victoria,
+770,H5073,Epworth Camberwell,Victoria,
+771,H5074,Epworth Richmond Rehabilitation,Victoria,
+772,H5075,Epworth Richmond,Victoria,
+773,H5076,Eye-Tech Day Surgeries,Queensland,
+774,H5077,Eye-Tech Day Surgeries Southside,Queensland,
+775,H5078,Figtree Private Hospital,New South Wales,
+776,H5079,Flinders Private Hospital,South Australia,
+777,H5080,Forster Private Hospital,New South Wales,
+778,H5081,Frances Perry House,Victoria,
+779,H5083,Geelong Private Hospital,Victoria,
+780,H5084,Ramsay Surgical Centre Glenferrie,Victoria,
+781,H5085,Glengarry Private Hospital,Western Australia,
+782,H5086,Greenslopes Private Hospital,Queensland,
+783,H5087,Griffith Rehabilitation Hospital,South Australia,
+784,H5088,Gympie Private Hospital,Queensland,
+785,H5091,Hervey Bay Surgical Hospital,Queensland,
+786,H5092,Hillcrest Rockhampton Private Hospital,Queensland,
+787,H5093,Hobart Private Hospital,Tasmania,
+788,H5094,Hollywood Private Hospital,Western Australia,
+789,H5095,St Vincent's Private Hospital [Northside],Queensland,
+790,H5097,Hunter Valley Private Hospital,New South Wales,
+791,H5098,Hunters Hill Private Hospital,New South Wales,
+792,H5099,Hurstville Private,New South Wales,
+793,H5100,Ipswich Day Hospital,Queensland,
+794,H5101,John Fawkner Private Hospital,Victoria,
+795,H5102,John Flynn Private Hospital,Queensland,
+796,H5103,Joondalup Health Campus (Private),Western Australia,
+797,H5105,Kareena Private Hospital,New South Wales,
+798,H5106,Kawana Private Hospital,Queensland,
+799,H5107,Knox Private Hospital,Victoria,
+800,H5108,Lady Davidson Private Hospital,New South Wales,
+801,H5109,Lake Macquarie Private Hospital,New South Wales,
+802,H5110,Lawrence Hargrave Private Hospital,New South Wales,
+803,H5111,Linacre Private Hospital,Victoria,
+804,H5113,Macquarie University Hospital,New South Wales,
+805,H5114,Maryvale Private Hospital,Victoria,
+806,H5115,Masada Private Hospital,Victoria,
+807,H5116,Mater Children's Private Brisbane,Queensland,
+808,H5117,Mater Private Hospital Townsville,Queensland,
+809,H5118,Mater Misericordiae Day Unit,Queensland,
+810,H5119,Mater Misericordiae Hospital Bundaberg,Queensland,
+811,H5120,Mater Misericordiae Hospital Gladstone,Queensland,
+812,H5121,Mater Misericordiae Hospital Mackay,Queensland,
+813,H5122,Mater Misericordiae Hospital Rockhampton,Queensland,
+814,H5124,Mater Mothers' Private Brisbane,Queensland,
+815,H5125,Mater Private Hospital Redland,Queensland,
+816,H5126,Mater Private Hospital Brisbane,Queensland,
+817,H5130,Melbourne Private Hospital,Victoria,
+818,H5131,St John of God Mt Lawley Hospital,Western Australia,
+819,H5132,St Vincent's Private Hospital [East Melbourne],Victoria,
+820,H5133,Metwest Eye Centre,New South Wales,
+821,H5135,Mildura Health Private Hospital,Victoria,
+822,H5136,Mitcham Private Hospital,Victoria,
+823,H5138,Montserrat Day Hospital Indooroopilly,Queensland,
+824,H5140,Mosman Private Hospital,New South Wales,
+825,H5141,Mount Gambier Private Hospital,South Australia,
+826,H5142,Mount Hospital,Western Australia,
+827,H5143,Mount Wilga Private Hospital,New South Wales,
+828,H5144,Murray Valley Private Hospital,Victoria,
+829,H5145,Nambour Selangor Private Hospital,Queensland,
+830,H5146,National Capital Private Hospital,Australian Capital Territory,
+831,H5147,Nepean Private Hospital,New South Wales,
+832,H5148,Ramsay Clinic New Farm,Queensland,
+833,H5149,Newcastle Private Hospital,New South Wales,
+834,H5150,Noosa Hospital,Queensland,
+835,H5151,North Eastern Rehabilitation Centre,Victoria,
+836,H5153,North West Private Hospital,Queensland,
+837,H5154,Northpark Private Hospital,Victoria,
+838,H5155,Ramsay Clinic Northside,New South Wales,
+839,H5156,Ramsay Clinic Cremorne,New South Wales,
+840,H5157,Ramsay Clinic Wentworthville,New South Wales,
+841,H5158,Norwest Private Hospital,New South Wales,
+842,H5159,Nowra Private Hospital,New South Wales,
+843,H5161,Orange Surgery Centre,New South Wales,
+844,H5162,Oxford Day Surgery and Dermatology,Western Australia,
+845,H5164,Pacific Private Hospital,Queensland,
+846,H5165,Parkwynd Private Hospital,South Australia,
+847,H5166,Peninsula Private Hospital Queensland,Queensland,
+848,H5167,Peninsula Private Hospital Victoria,Victoria,
+849,H5168,Pennant Hills Day Surgery,New South Wales,
+850,H5169,Perth Clinic,Western Australia,
+851,H5170,Pindara Day Procedure Centre,Queensland,
+852,H5171,Pindara Private Hospital,Queensland,
+853,H5172,Pine Rivers Private Hospital,Queensland,
+854,H5173,Port Macquarie Private Hospital,New South Wales,
+855,H5174,Prince of Wales Private Hospital,New South Wales,
+856,H5175,Ringwood Private Hospital,Victoria,
+857,H5176,Rivercity Private Hospital,Queensland,
+858,H5179,Shepparton Private Hospital,Victoria,
+859,H5180,Short Street Day Surgery,Queensland,
+860,H5181,Lady Bjelke-Petersen Community Hospital,Queensland,
+861,H5182,South Eastern Private Hospital,Victoria,
+862,H5184,Southern Highlands Private Hospital,New South Wales,
+863,H5185,Southside Endoscopy Centre,Queensland,
+864,H5186,SPORTSMED SA Hospital & Day Surgery,South Australia,
+865,H5187,St Andrew's Hospital,South Australia,
+866,H5188,St Andrew's Ipswich Private Hospital,Queensland,
+867,H5189,St Andrew's War Memorial Hospital,Queensland,
+868,H5190,St George Private Hospital,New South Wales,
+869,H5191,St Helen's Private Hospital,Tasmania,
+870,H5192,St John of God Ballarat Hospital,Victoria,
+871,H5193,St John of God Bendigo Hospital,Victoria,
+872,H5194,St John of God Berwick Hospital,Victoria,
+873,H5195,St John of God Bunbury Hospital,Western Australia,
+874,H5196,St John of God Burwood Hospital,New South Wales,
+875,H5197,St John of God Geelong Hospital,Victoria,
+876,H5198,St John of God Geraldton Hospital,Western Australia,
+877,H5199,St John of God Murdoch Hospital,Western Australia,
+878,H5200,St John of God Richmond Hospital,New South Wales,
+879,H5201,St John of God Subiaco Hospital,Western Australia,
+880,H5202,St John of God Warrnambool Hospital,Victoria,
+881,H5203,St John of God Frankston Rehabilitation Hospital,Victoria,
+882,H5204,St John of God Pinelodge Clinic,Victoria,
+883,H5205,St Luke's Hospital,New South Wales,
+884,H5206,St Stephen's Hospital [Hervey Bay],Queensland,
+885,H5208,St Vincent's Private Hospital [Toowoomba],Queensland,
+886,H5209,St Vincent's Private Hospital Fitzroy,Victoria,
+887,H5210,St Vincent's Private Hospital [Sydney],New South Wales,
+888,H5211,St Vincent's Private Hospital [Lismore],New South Wales,
+889,H5212,Stirling Hospital,South Australia,
+890,H5213,Strathfield Private Hospital,New South Wales,
+891,H5214,Subiaco Private Hospital,Western Australia,
+892,H5215,Sunnybank Private Hospital,Queensland,
+893,H5216,Sunshine Coast Haematology and Oncology Clinic,Queensland,
+894,H5218,Sydney Adventist Hospital,New South Wales,
+895,H5219,Sydney Day Surgery - Prince Alfred,New South Wales,
+896,H5220,Sydney Southwest Private Hospital,New South Wales,
+897,H5221,Tamara Private Hospital,New South Wales,
+898,H5222,The Avenue Hospital,Victoria,
+899,H5223,The Bays Hospital,Victoria,
+900,H5225,The Eye Hospital,Tasmania,
+901,H5226,The Geelong Clinic,Victoria,
+902,H5227,The Hills Clinic Kellyville,New South Wales,
+903,H5228,The Hills Private Hospital,New South Wales,
+904,H5229,The Hobart Clinic,Tasmania,
+905,H5230,Mater Hospital Sydney,New South Wales,
+906,H5231,The Melbourne Clinic,Victoria,
+907,H5232,The Memorial Hospital,South Australia,
+908,H5233,The Skin Hospital [Westmead],New South Wales,
+909,H5234,Buderim Private Hospital,Queensland,
+910,H5235,The Sydney Clinic,New South Wales,
+911,H5236,Mulgrave Private Hospital,Victoria,
+912,H5237,The Victoria Clinic,Victoria,
+913,H5238,The Victorian Rehabilitation Centre,Victoria,
+914,H5239,The Wesley Hospital,Queensland,
+915,H5241,Toowong Private Hospital,Queensland,
+916,H5242,Toowoomba Surgicentre,Queensland,
+917,H5243,Townsville Day Surgery,Queensland,
+918,H5244,Tweed Day Surgery,New South Wales,
+919,H5245,Victoria Parade Surgery Centre,Victoria,
+920,H5246,St Vincent's Private Hospital [Kew],Victoria,
+921,H5247,Waikiki Private Hospital,Western Australia,
+922,H5248,Wangaratta Private Hospital,Victoria,
+923,H5249,Warners Bay Private Hospital,New South Wales,
+924,H5250,Warringal Private Hospital,Victoria,
+925,H5251,Waverley Private Hospital,Victoria,
+926,H5252,Wesley Hospital Ashfield,New South Wales,
+927,H5253,Wesley Hospital Kogarah,New South Wales,
+928,H5254,Western Hospital,South Australia,
+929,H5255,Western Private Hospital,Victoria,
+930,H5256,Westmead Private Hospital,New South Wales,
+931,H5257,Westmead Rehabilitation Hospital,New South Wales,
+932,H5258,Westminster Day Surgery,Western Australia,
+933,H5259,Wolper Jewish Hospital,New South Wales,
+934,H5260,Adelaide Surgicentre,South Australia,
+935,H5261,Brisbane Endoscopy Services,Queensland,
+936,H5263,Mogo Day Surgery,New South Wales,
+937,H5265,St Andrew's Toowoomba Hospital,Queensland,
+938,H5266,Greenslopes Day Surgery,Queensland,
+939,H5267,Ulladulla Endoscopy and Medical Centre,New South Wales,
+940,H5269,Waratah Private Hospital,New South Wales,
+941,H5270,Mackay Specialist Day Hospital,Queensland,
+942,H5275,Burnside War Memorial Hospital,South Australia,
+943,H5276,Manningham Day Procedure Centre,Victoria,
+944,H5277,Glenelg Community Hospital Inc,South Australia,
+945,H5278,Chermside Day Hospital,Queensland,
+946,H5279,Vision Day Surgery Eastern,Victoria,
+947,H5280,Vision Day Surgery Camberwell,Victoria,
+948,H5281,Vision Day Surgery Footscray,Victoria,
+949,H5282,North Queensland Day Surgical Centre,Queensland,
+950,H5283,Vision Day Surgery Hurstville,New South Wales,
+951,H5284,Vision Eye Institute Chatswood,New South Wales,
+952,H5285,Vision Day Surgery Rivercity,Queensland,
+953,H5286,Vision Eye Institute,Victoria,
+954,H5287,Brisbane Day Surgery,Queensland,
+955,H5288,The Sydney Private Hospital Incorporating the NSW Eye Centre,New South Wales,
+956,H5289,Epworth Hawthorn,Victoria,
+957,H5290,Walcott Street Surgical Centre,Western Australia,
+958,H5291,Miranda Eye Surgical Centre,New South Wales,
+959,H5292,St Vincent's Private Hospital [Brisbane],Queensland,
+960,H5293,South Perth Hospital,Western Australia,
+961,H5294,Ramsay Clinic Macarthur,New South Wales,
+962,H5295,Sunshine Coast University Private Hospital,Queensland,
+963,H5298,Mackay Private Hospital,Queensland,
+964,H5299,Wagga Endoscopy Centre,New South Wales,
+965,H5301,Nambour Day Surgery,Queensland,
+966,H5302,San Day Surgery Hornsby,New South Wales,
+967,H5306,Wollongong Day Surgery,New South Wales,
+968,H5307,Hobsons Bay Endoscopy Centre Werribee,Victoria,
+969,H5308,Altona Endoscopy Centre,Victoria,
+970,H5309,Hobsons Bay Endoscopy Centre Sydenham,Victoria,
+971,H5310,Friendly Society Private Hospital,Queensland,
+972,H5314,Ballarat Day Procedure Centre,Victoria,
+973,H5315,Buderim Gastroenterology Centre,Queensland,
+974,H5317,Ramsay Surgical Centre Miranda,New South Wales,
+975,H5323,Logan Endoscopy Services,Queensland,
+976,H5324,Chatswood Private Hospital,New South Wales,
+977,H5325,Wollongong Private Hospital,New South Wales,
+978,H5327,Frankston Private Hospital,Victoria,
+979,H5328,Jessie McPherson Private Hospital,Victoria,
+980,H5329,Liverpool Eye Surgery,New South Wales,
+981,H5330,Coffs Day Hospital,New South Wales,
+982,H5331,Western Sydney Private Oncology and Infusion Centre,New South Wales,
+983,H5332,The Border Cancer Hospital,New South Wales,
+984,H5333,Sunshine Coast Day Surgery,Queensland,
+985,H5334,St John of God Midland Private Hospital,Western Australia,
+986,H5336,Gold Coast Private Hospital,Queensland,
+987,H5337,La Trobe Private Hospital,Victoria,
+988,H5338,Holmesglen Private Hospital,Victoria,
+989,H5339,Epworth Geelong,Victoria,
+990,H5340,Madison Day Surgery,New South Wales,
+991,H5341,Chris O'Brien Lifehouse,New South Wales,
+992,H5343,The Southport Private Hospital,Queensland,
+993,H5344,Westside Private Hospital,Queensland,
+994,H5345,Hirondelle Private Hospital,New South Wales,
+995,H5346,Mayo Private Hospital,New South Wales,
+996,H5347,Toronto Private Hospital,New South Wales,
+997,H5348,Lingard Private Hospital,New South Wales,
+998,H5349,Shellharbour Private Hospital,New South Wales,
+999,H5350,Gosford Private Hospital,New South Wales,
+1000,H5351,Dubbo Private Hospital,New South Wales,
+1001,H5352,Maitland Private Hospital,New South Wales,
+1002,H5353,St. Vincent Private Community Hospital [Griffith],New South Wales,
+1003,H5354,Brunswick Private Hospital,Victoria,
+1004,H5355,St Vincent's Private Hospital [Werribee],Victoria,
+1005,H5357,Eden Private Hospital,Queensland,
+1006,H5358,Robina Private Hospital,Queensland,
+1007,H5359,North West Private Hospital (Tas),Tasmania,
+1008,H5360,Cairns Haematology and Oncology Clinic,Queensland,
+1009,H5361,Northern Beaches Hospital - Private,New South Wales,
+1010,H5364,Calvary Adelaide Hospital,South Australia,
+1011,H5365,Albany Community Hospice,Western Australia,
+1012,H5366,Albany Day Hospital,Western Australia,
+1013,H5367,Albury Day Surgery,New South Wales,
+1014,H5368,Alwyn Rehabilitation Hospital,New South Wales,
+1015,H5369,Arcadia Pittwater Private Hospital,New South Wales,
+1016,H5370,Belmont Private Hospital,Queensland,
+1017,H5371,Bendigo Day Surgery,Victoria,
+1018,H5372,Bondi Junction Private Hospital,New South Wales,
+1019,H5373,Brighton Dialysis Clinic,South Australia,
+1020,H5374,Brisbane Day Hospital,Queensland,
+1021,H5375,Cambridge Day Surgery,Western Australia,
+1022,H5376,Canberra Private Hospital,Australian Capital Territory,
+1023,H5377,Charlestown Private Hospital,New South Wales,
+1024,H5378,Churchill Day Surgery,Western Australia,
+1025,H5379,City West Specialist Day Hospital,New South Wales,
+1026,H5381,Craigie Day Surgery,Western Australia,
+1027,H5382,Delmar Private Hospital,New South Wales,
+1028,H5383,Delmont Private Hospital,Victoria,
+1029,H5384,Double Bay Day Hospital,New South Wales,
+1030,H5385,East Sydney Private Hospital,New South Wales,
+1031,H5386,Eastern Suburbs Private Hospital,New South Wales,
+1032,H5387,Forest Hill Dialysis Clinic,Victoria,
+1033,H5388,Gordon Private Hospital,New South Wales,
+1034,H5389,Healthwoods Endoscopy Centre,New South Wales,
+1035,H5390,Holroyd Private Hospital,New South Wales,
+1036,H5391,Hummingbird House,Queensland,
+1037,H5392,Icon Cancer Centre Canberra,Australian Capital Territory,
+1038,H5393,Icon Cancer Centre Chermside,Queensland,
+1039,H5394,Icon Cancer Centre Hobart,Tasmania,
+1040,H5395,Icon Cancer Centre Midland,Western Australia,
+1041,H5396,Icon Cancer Centre North Lakes,Queensland,
+1042,H5397,Icon Cancer Centre Revesby,New South Wales,
+1043,H5398,Icon Cancer Centre Rockingham,Western Australia,
+1044,H5399,Icon Cancer Centre South Brisbane,Queensland,
+1045,H5400,Icon Cancer Centre Southport,Queensland,
+1046,H5401,Icon Cancer Centre Townsville,Queensland,
+1047,H5402,Icon Cancer Centre Wesley,Queensland,
+1048,H5403,Icon Cancer Centre Windsor Gardens,South Australia,
+1049,H5404,Kings Park Day Hospital,Western Australia,
+1050,H5405,Kingsgrove Day Hospital,New South Wales,
+1051,H5406,Lithgow Community Private Hospital,New South Wales,
+1052,H5407,Longueville Private Hospital,New South Wales,
+1053,H5408,Malvern Dialysis Clinic,Victoria,
+1054,H5409,Manly Waters Private Hospital,New South Wales,
+1055,H5410,Mater Private Hospital Springfield,Queensland,
+1056,H5411,McCourt Street Day Surgery,Western Australia,
+1057,H5412,Miami Private Hospital,Queensland,
+1058,H5413,Monash House Private Hospital,Victoria,
+1059,H5414,Moreton Day Hospital,Queensland,
+1060,H5415,Murdoch Surgicentre,Western Australia,
+1061,H5416,Neerim District Health Service,Victoria,
+1062,H5417,Newcastle Endoscopy Centre,New South Wales,
+1063,H5418,Noosa Surgical and Endoscopy Centre,Queensland,
+1064,H5419,North Eastern Community Hospital,South Australia,
+1065,H5420,North Shore Specialist Day Hospital,New South Wales,
+1066,H5421,GenesisCare North Shore,New South Wales,
+1067,H5422,Northern Endoscopy Centre,South Australia,
+1068,H5423,Northside Endoscopy Service,Queensland,
+1069,H5424,Norwest Day Hospital,New South Wales,
+1070,H5425,PANCH Day Surgery Centre,Victoria,
+1071,H5426,Payneham Dialysis Clinic,South Australia,
+1072,H5427,Perth Day Surgery Centre,Western Australia,
+1073,H5428,Perth Dermatology Clinic,Western Australia,
+1074,H5429,Perth Eye Hospital,Western Australia,
+1075,H5430,President Private Hospital,New South Wales,
+1076,H5431,Rockingham Dialysis Clinic,Western Australia,
+1077,H5432,Rosemont Endoscopy Centre,New South Wales,
+1078,H5433,Salisbury Day Hospital,Queensland,
+1079,H5434,Sight Foundation Theatre,New South Wales,
+1080,H5435,SOLE VITA SURGERY,Australian Capital Territory,
+1081,H5436,South Bank Day Hospital,Queensland,
+1082,H5437,Southern Endoscopy Centre,South Australia,
+1083,H5438,Southside Cancer Care Centre,New South Wales,
+1084,H5439,Spring Hill Specialist Day Hospital,Queensland,
+1085,H5440,Stirling Dialysis Clinic,Western Australia,
+1086,H5441,Sydney Day Hospital,New South Wales,
+1087,H5442,Sydney Day Surgery,New South Wales,
+1088,H5443,Tasman Health Care Day Infusion Unit,Queensland,
+1089,H5444,The Glen Endoscopy Centre,Victoria,
+1090,H5445,The Melbourne Eastern Private Hospital,Victoria,
+1091,H5446,The Park Private Hospital,Western Australia,
+1092,H5447,The Wesley Centre for Hyperbaric Medicine,Queensland,
+1093,H5448,Tuggerah Lakes Private Hospital,New South Wales,
+1094,H5449,Vision Centre Day Surgery,Queensland,
+1095,H5451,West Leederville Private Hospital,Western Australia,
+1096,H5453,Windsor Gardens Day Surgery,South Australia,
+1097,H5454,Artarmon Day Surgery,New South Wales,
+1098,H5455,Ballan District Health & Care,Victoria,
+1099,H5456,Bankstown Day Hospital,New South Wales,
+1100,H5457,Bayside Endoscopy Day Hospital,Victoria,
+1101,H5458,Bunbury Day Hospital,Western Australia,
+1102,H5459,Cannington Dialysis Clinic,Western Australia,
+1103,H5460,Chermside Dialysis Clinic,Queensland,
+1104,H5461,Bayside Day Procedure and Specialist Centre,Victoria,
+1105,H5462,Bayswater Day Procedure and Specialist Centre,Victoria,
+1106,H5463,Casey Day Hospital,Victoria,
+1107,H5464,Dr Daniel Lanzer Dermatology & Cosmetic Surgery Services,Queensland,
+1108,H5465,Eastern Endoscopy Centre,Queensland,
+1109,H5466,Eastside Endoscopy Centre,Victoria,
+1110,H5467,Euroa Health,Victoria,
+1111,H5468,Greensborough Day Surgery,Victoria,
+1112,H5469,Heyfield Hospital,Victoria,
+1113,H5470,Icon Cancer Centre Adelaide,South Australia,
+1114,H5471,Insight Private Hospital,New South Wales,
+1115,H5472,Kew Endoscopy Centre,Victoria,
+1116,H5473,Lakeview Private Hospital,New South Wales,
+1117,H5474,Lions Eye Institute Day Surgery Centre,Western Australia,
+1118,H5475,Melbourne Endoscopy Monash Day Procedure Centre,Victoria,
+1119,H5476,Melbourne Endoscopy,Victoria,
+1120,H5477,Midland Dialysis Clinic,Western Australia,
+1121,H5478,Western Haematology and Oncology Clinics,Western Australia,
+1122,H5479,Newcastle Dialysis Clinic,New South Wales,
+1123,H5480,Regional Imaging Cardiovascular Centre,New South Wales,
+1124,H5481,Southbank Day Surgery,Western Australia,
+1125,H5482,Spearwood Dialysis Clinic,Western Australia,
+1126,H5483,Sydney Retina Clinic & Day Surgery,New South Wales,
+1127,H5484,The Cataract Clinic (Aust),New South Wales,
+1128,H5485,The Roseberry Eye Specialist Centre,New South Wales,
+1129,H5486,The Skin Hospital [Darlinghurst],New South Wales,
+1130,H5487,Icon Cancer Centre Mackay,Queensland,
+1131,H5488,Minchinbury Community Private Hospital,New South Wales,
+1132,H5489,South Coast Digestive Diseases Centre,Queensland,
+1133,H5490,Toorak Cosmetic Surgery Day Centre,Victoria,
+1134,H5491,St John of God Subiaco Eye Hospital,Western Australia,
+1135,H5492,West Coast Endoscopy Centre,Western Australia,
+1136,H5493,Clifton Co-Op Hospital Ltd,Queensland,
+1137,H5494,Cosmos Cosmetic Day Surgery,New South Wales,
+1138,H5495,Genesis Cancer Care Fiona Stanley,Western Australia,
+1139,H5496,GI Clinic Perth,Western Australia,
+1140,H5497,Montserrat Western Haematology and Oncology Clinic,Queensland,
+1141,H5500,St Stephen's Private Hospital [Maryborough],Queensland,
+1142,H5501,Warringah Day Surgery,New South Wales,
+1143,H5502,Genesis Cancer Care Shenton House Joondalup,Western Australia,
+1144,H5503,St John of God Hawkesbury District Health Service (Private),New South Wales,
+1145,H5504,Marian Centre,Western Australia,
+1146,H5505,Townsville Private Clinic,Queensland,
+1147,H5506,Toowoomba Hospice,Queensland,
+1148,H5507,Currumbin Clinic,Queensland,
+1149,H5508,South Coast Private Hospital,New South Wales,
+1150,H5509,Abbotsford Private Hospital,Western Australia,
+1151,H5510,Ramsay Clinic Cairns,Queensland,
+1152,H5511,Ramsay Clinic Adelaide,South Australia,
+1153,H5512,Ramsay Surgical Centre Coffs Harbour,New South Wales,
+1154,H5513,Ramsay Clinic Thirroul,New South Wales,
+1155,H5514,Brindabella Endoscopy Centre,Australian Capital Territory,
+1156,H5515,Chesterville Day Hospital,Victoria,
+1157,H5516,Dee Why Endoscopy Unit,New South Wales,
+1158,H5517,Riverina Day Surgery,New South Wales,
+1159,H5518,ACT Endoscopy,Australian Capital Territory,
+1160,H5519,Barton Private Hospital,Australian Capital Territory,
+1161,H5520,Glen Iris Private,Victoria,
+1162,H5521,Glenelg Day Surgery,South Australia,
+1163,H5522,Sir John Monash Private Hospital,Victoria,
+1164,H5523,Somerset Private Hospital,New South Wales,
+1165,H5524,Sydney Surgical Centre,New South Wales,
+1166,ACTCH,ACT Children's hospitals,Australian Capital Territory,
+1167,ACTL,ACT Large hospitals,Australian Capital Territory,
+1168,ACTM,ACT Medium hospitals,Australian Capital Territory,
+1169,ACTMJ,ACT Major hospitals,Australian Capital Territory,
+1170,ACTS,ACT Small hospitals,Australian Capital Territory,
+1171,ACTU,ACT Unpeered,Australian Capital Territory,
+1172,CH,Children's hospitals,,
+1173,L,Large hospitals,,
+1174,LM,Large metropolitan hospitals,,
+1175,LR,Large regional hospitals,,
+1176,M,Medium hospitals,,
+1177,MJ,Major hospitals,,
+1178,MJM,Major metropolitan hospitals,,
+1179,MJR,Major regional hospitals,,
+1180,MM,Medium metropolitan hospitals,,
+1181,MR,Medium regional hospitals,,
+1182,NB,National benchmark,,
+1183,NC,QLD not comparable,,
+1184,NSWCH,NSW Children's hospitals,New South Wales,
+1185,NSWL,NSW Large hospitals,New South Wales,
+1186,NSWM,NSW Medium hospitals,New South Wales,
+1187,NSWMJ,NSW Major hospitals,New South Wales,
+1188,NSWS,NSW Small hospitals,New South Wales,
+1189,NSWU,NSW Unpeered,New South Wales,
+1190,NTCH,NT Children's hospitals,Northern Territory,
+1191,NTL,NT Large hospitals,Northern Territory,
+1192,NTM,NT Medium hospitals,Northern Territory,
+1193,NTMJ,NT Major hospitals,Northern Territory,
+1194,NTS,NT Small hospitals,Northern Territory,
+1195,NTU,NT Unpeered,Northern Territory,
+1196,QldCH,Qld Children's hospitals,Queensland,
+1197,QldL,Qld Large hospitals,Queensland,
+1198,QldM,Qld Medium hospitals,Queensland,
+1199,QldMJ,Qld Major hospitals,Queensland,
+1200,QldS,Qld Small hospitals,Queensland,
+1201,QldU,Qld Unpeered,Queensland,
+1202,S,Small hospitals,,
+1203,SACH,SA Children's hospitals,South Australia,
+1204,SAL,SA Large hospitals,South Australia,
+1205,SAM,SA Medium hospitals,South Australia,
+1206,SAMJ,SA Major hospitals,South Australia,
+1207,SAS,SA Small hospitals,South Australia,
+1208,SAU,SA Unpeered,South Australia,
+1209,TasCH,Tas Children's hospitals,Tasmania,
+1210,TasL,Tas Large hospitals,Tasmania,
+1211,TasM,Tas Medium hospitals,Tasmania,
+1212,TasMJ,Tas Major hospitals,Tasmania,
+1213,TasS,Tas Small hospitals,Tasmania,
+1214,TasU,Tas Unpeered,Tasmania,
+1215,U,Unpeered,,
+1216,VicCH,Vic Children's hospitals,Victoria,
+1217,VicL,Vic Large hospitals,Victoria,
+1218,VicM,Vic Medium hospitals,Victoria,
+1219,VicMJ,Vic Major hospitals,Victoria,
+1220,VicS,Vic Small hospitals,Victoria,
+1221,VicU,Vic Unpeered,Victoria,
+1222,WACH,WA Children's hospitals,Western Australia,
+1223,WAL,WA Large hospitals,Western Australia,
+1224,WAM,WA Medium hospitals,Western Australia,
+1225,WAMJ,WA Major hospitals,Western Australia,
+1226,WAS,WA Small hospitals,Western Australia,
+1227,WAU,WA Unpeered,Western Australia,
+1228,LHN101,South Eastern Sydney,New South Wales,
+1229,LHN102,Sydney,New South Wales,
+1230,LHN103,South Western Sydney,New South Wales,
+1231,LHN104,Western Sydney,New South Wales,
+1232,LHN105,Nepean Blue Mountains,New South Wales,
+1233,LHN106,Northern Sydney,New South Wales,
+1234,LHN107,Central Coast,New South Wales,
+1235,LHN108,Illawarra Shoalhaven,New South Wales,
+1236,LHN109,Hunter New England,New South Wales,
+1237,LHN110,Mid North Coast,New South Wales,
+1238,LHN111,Northern NSW,New South Wales,
+1239,LHN112,Western NSW,New South Wales,
+1240,LHN113,Southern NSW,New South Wales,
+1241,LHN114,Murrumbidgee,New South Wales,
+1242,LHN115,Far West,New South Wales,
+1243,LHN117,Sydney Children's Hospitals Network,New South Wales,
+1244,LHN118,St Vincent's Health Network,New South Wales,
+1245,LHN119,Justice Health & Forensic Mental Health,New South Wales,
+1246,LHN199,New South Wales Virtual Local Hospital Network,New South Wales,
+1247,LHN201,Beaufort and Skipton Health Service,Victoria,
+1248,LHN202,East Grampians Health Service,Victoria,
+1249,LHN203,Ballarat Health Services,Victoria,
+1250,LHN204,Stawell Regional Health,Victoria,
+1251,LHN205,East Wimmera Health Service,Victoria,
+1252,LHN206,Hepburn Health Service,Victoria,
+1253,LHN207,Maryborough District Health Service,Victoria,
+1254,LHN208,Djerriwarrh Health Service (Vic),Victoria,
+1255,LHN209,Western Health (Vic),Victoria,
+1256,LHN210,Bendigo Health Care Group,Victoria,
+1257,LHN211,Heathcote Health,Victoria,
+1258,LHN212,Swan Hill District Health,Victoria,
+1259,LHN213,Cohuna District Hospital,Victoria,
+1260,LHN214,Echuca Regional Health,Victoria,
+1261,LHN215,Kerang District Health,Victoria,
+1262,LHN216,Maldon Hospital,Victoria,
+1263,LHN218,Boort District Health,Victoria,
+1264,LHN219,Rochester and Elmore District Health Service,Victoria,
+1265,LHN220,Inglewood and District Health Service,Victoria,
+1266,LHN221,Castlemaine Health,Victoria,
+1267,LHN222,Kyneton District Health Service,Victoria,
+1268,LHN223,Royal Children's Hospital (Melbourne),Victoria,
+1269,LHN224,Royal Women's Hospital (Melbourne),Victoria,
+1270,LHN225,Melbourne Health,Victoria,
+1271,LHN226,Northern Health (Vic),Victoria,
+1272,LHN227,Victorian Institute of Forensic Mental Health,Victoria,
+1273,LHN228,Colac Area Health,Victoria,
+1274,LHN229,Hesse Rural Health Service (Winchelsea),Victoria,
+1275,LHN230,Otway Health and Community Services (Apollo Bay),Victoria,
+1276,LHN231,Barwon Health,Victoria,
+1277,LHN232,Lorne Community Hospital,Victoria,
+1278,LHN233,Alexandra District Hospital,Victoria,
+1279,LHN234,Eastern Health (Vic),Victoria,
+1280,LHN235,Goulburn Valley Health,Victoria,
+1281,LHN236,Kyabram and District Health Service,Victoria,
+1282,LHN237,Numurkah and District Health Service,Victoria,
+1283,LHN238,Nathalia District Hospital,Victoria,
+1284,LHN239,Cobram District Health,Victoria,
+1285,LHN240,Seymour District Memorial Hospital,Victoria,
+1286,LHN241,Kilmore and District Hospital,,
+1287,LHN242,Yea and District Memorial Hospital,Victoria,
+1288,LHN243,Northeast Health Wangaratta,Victoria,
+1289,LHN244,Yarrawonga District Health Service,Victoria,
+1290,LHN245,Alpine Health (Vic),Victoria,
+1291,LHN246,Mansfield District Hospital,Victoria,
+1292,LHN247,Benalla and District Memorial Hospital,Victoria,
+1293,LHN248,Tallangatta Health Service,Victoria,
+1294,LHN249,Albury Wodonga Health,Victoria,
+1295,LHN250,Upper Murray Health and Community Services (Corryong),Victoria,
+1296,LHN251,Beechworth Health Service,Victoria,
+1297,LHN252,West Gippsland Healthcare Group,Victoria,
+1298,LHN253,Bass Coast Regional Health,Victoria,
+1299,LHN254,Gippsland Southern Health Service,Victoria,
+1300,LHN255,South Gippsland Hospital (Foster),Victoria,
+1301,LHN256,Bairnsdale Regional Health Service,Victoria,
+1302,LHN257,Yarram and District Health Service,Victoria,
+1303,LHN258,Omeo District Health,Victoria,
+1304,LHN259,Central Gippsland Health Service,Victoria,
+1305,LHN260,Latrobe Regional Hospital,Victoria,
+1306,LHN261,Orbost Regional Health,Victoria,
+1307,LHN262,St Vincent's Hospital (Melbourne) Limited,Victoria,
+1308,LHN263,Royal Victorian Eye and Ear Hospital,Victoria,
+1309,LHN264,Peter MacCallum Cancer Institute (Vic),Victoria,
+1310,LHN266,Austin Health (Vic),Victoria,
+1311,LHN267,Mercy Public Hospital Inc. (Vic),Victoria,
+1312,LHN268,Alfred Health (Vic),Victoria,
+1313,LHN269,Monash Health,Victoria,
+1314,LHN270,Peninsula Health (Vic),Victoria,
+1315,LHN271,Kooweerup Regional Health Service,Victoria,
+1316,LHN274,Rural Northwest Health (Vic),Victoria,
+1317,LHN275,Wimmera Health Care Group,Victoria,
+1318,LHN276,Dunmunkle Health Services,Victoria,
+1319,LHN277,West Wimmera Health Service,Victoria,
+1320,LHN278,Edenhope and District Memorial Hospital,Victoria,
+1321,LHN279,Mildura Base Hospital,Victoria,
+1322,LHN280,Mallee Track Health and Community Service,Victoria,
+1323,LHN281,Robinvale District Health Services,Victoria,
+1324,LHN282,Western District Health Service (Vic),Victoria,
+1325,LHN283,Casterton Memorial Hospital,Victoria,
+1326,LHN284,South West Healthcare (Vic),Victoria,
+1327,LHN285,Heywood Rural Health,Victoria,
+1328,LHN286,Timboon and District Healthcare Service,Victoria,
+1329,LHN287,Moyne Health Services (Port Fairy),Victoria,
+1330,LHN288,Portland District Health,Victoria,
+1331,LHN289,Terang and Mortlake Health Service (Terang),Victoria,
+1332,LHN290,Calvary Health Care Bethlehem Limited,Victoria,
+1333,LHN291,NCN Health,Victoria,
+1334,LHN292,Great Ocean Road Health,Victoria,
+1335,LHN293,Central Highlands Rural Health,Victoria,
+1336,LHN294,Grampians Health,Victoria,
+1337,LHN295,Dhelkaya Health,Victoria,
+1338,LHN298,Tweddle Child and Family Health Service,,
+1339,LHN299,Victoria Virtual Local Hospital Network,Victoria,
+1340,LHN312,Cairns and Hinterland,Queensland,
+1341,LHN313,Townsville,Queensland,
+1342,LHN314,Mackay,Queensland,
+1343,LHN315,North West (Qld),Queensland,
+1344,LHN316,Central Queensland,Queensland,
+1345,LHN317,Central West (Qld),Queensland,
+1346,LHN318,Wide Bay,Queensland,
+1347,LHN319,Sunshine Coast,Queensland,
+1348,LHN320,Metro North (Qld),Queensland,
+1349,LHN321,Children's Health Queensland,Queensland,
+1350,LHN322,Metro South (Qld),Queensland,
+1351,LHN323,Gold Coast,Queensland,
+1352,LHN324,West Moreton,Queensland,
+1353,LHN325,Darling Downs,Queensland,
+1354,LHN326,South West (Qld),Queensland,
+1355,LHN327,Torres and Cape,Queensland,
+1356,LHN399,Queensland Virtual Local Hospital Network,Queensland,
+1357,LHN401,Northern Adelaide,South Australia,
+1358,LHN402,Central Adelaide,South Australia,
+1359,LHN403,Southern Adelaide,South Australia,
+1360,LHN404,Country Health SA,South Australia,
+1361,LHN405,Women's and Children's Health Network (SA),South Australia,
+1362,LHN406,Barossa Hills Fleurieu,South Australia,
+1363,LHN407,Eyre and Far North,South Australia,
+1364,LHN408,Flinders and Upper North,South Australia,
+1365,LHN409,Riverland Mallee Coorong,South Australia,
+1366,LHN410,Limestone Coast,South Australia,
+1367,LHN411,Yorke and Northern,South Australia,
+1368,LHN499,South Australia Virtual Local Hospital Network,South Australia,
+1369,LHN501,North Metropolitan Health Service (WA),Western Australia,
+1370,LHN502,South Metropolitan Health Service (WA),Western Australia,
+1371,LHN503,WA Country Health Service,Western Australia,
+1372,LHN504,East Metropolitan Health Service (WA),Western Australia,
+1373,LHN580,Child Adolescent Health Service (WA),Western Australia,
+1374,LHN590,Notional Local Hospital Network (Royal St.),Western Australia,
+1375,LHN599,Western Australia Virtual Local Hospital Network,Western Australia,
+1376,LHN604,Tasmanian Health Service,Tasmania,
+1377,LHN699,Tasmania Virtual Local Hospital Network,Tasmania,
+1378,LHN701,Top End (NT),Northern Territory,
+1379,LHN702,Central Australia (NT),Northern Territory,
+1380,LHN703,NT Regional Health Services (NTRHS),Northern Territory,
+1381,LHN799,Northern Territory Virtual Local Hospital Network,Northern Territory,
+1382,LHN801,Australian Capital Territory,Australian Capital Territory,
+1383,LHN899,Australian Capital Territory Virtual Local Hospital Network,Australian Capital Territory,
+1384,LHN900,Virtual Local Hospital Network - Unknown,,
+1385,LHN997,Not applicable,,
+1386,LHN998,Unknown,,
+1387,LHN999,Not stated/inadequately described,,
+1388,NAT,National,,
+1389,ACT,Australian Capital Territory,Australian Capital Territory,Local Hospital Network
+1390,NSW,New South Wales,New South Wales,Local Hospital Network
+1391,NT,Northern Territory,Northern Territory,Local Hospital Network
+1392,Qld,Queensland,Queensland,Local Hospital Network
+1393,SA,South Australia,South Australia,Local Hospital Network
+1394,Tas,Tasmania,Tasmania,Local Hospital Network
+1395,Vic,Victoria,Victoria,Local Hospital Network
+1396,WA,Western Australia,Western Australia,Local Hospital Network
+1397,PHN101,Central and Eastern Sydney,New South Wales,Local Hospital Network
+1398,PHN102,Northern Sydney,New South Wales,Local Hospital Network
+1399,PHN103,Western Sydney,New South Wales,Local Hospital Network
+1400,PHN104,Nepean Blue Mountains,New South Wales,Local Hospital Network
+1401,PHN105,South Western Sydney,New South Wales,Local Hospital Network
+1402,PHN106,South Eastern NSW,New South Wales,Local Hospital Network
+1403,PHN107,Western NSW,New South Wales,Local Hospital Network
+1404,PHN108,Hunter New England and Central Coast,New South Wales,Local Hospital Network
+1405,PHN109,North Coast,New South Wales,Local Hospital Network
+1406,PHN110,Murrumbidgee,New South Wales,Local Hospital Network
+1407,PHN201,North Western Melbourne,Victoria,Local Hospital Network
+1408,PHN202,Eastern Melbourne,Victoria,Local Hospital Network
+1409,PHN203,South Eastern Melbourne,Victoria,Local Hospital Network
+1410,PHN204,Gippsland,Victoria,Local Hospital Network
+1411,PHN205,Murray,Victoria,Local Hospital Network
+1412,PHN206,Western Victoria,Victoria,Local Hospital Network
+1413,PHN301,Brisbane North,Queensland,Local Hospital Network
+1414,PHN302,Brisbane South,Queensland,Local Hospital Network
+1415,PHN303,Gold Coast,Queensland,Local Hospital Network
+1416,PHN304,Darling Downs and West Moreton,Queensland,Local Hospital Network
+1417,PHN305,Western Queensland,Queensland,Local Hospital Network
+1418,PHN306,"Central Queensland, Wide Bay and Sunshine Coast",Queensland,Local Hospital Network
+1419,PHN307,Northern Queensland,Queensland,Local Hospital Network
+1420,PHN401,Adelaide,South Australia,Local Hospital Network
+1421,PHN402,Country SA,South Australia,Local Hospital Network
+1422,PHN501,Perth North,Western Australia,Local Hospital Network
+1423,PHN502,Perth South,Western Australia,Local Hospital Network
+1424,PHN503,Country WA,Western Australia,Local Hospital Network
+1425,PHN601,Tasmania,Tasmania,Local Hospital Network
+1426,PHN701,Northern Territory,Northern Territory,Local Hospital Network
+1427,PHN801,Australian Capital Territory,Australian Capital Territory,Local Hospital Network
