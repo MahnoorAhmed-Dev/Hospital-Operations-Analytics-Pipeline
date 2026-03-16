@@ -1,1 +1,3 @@
 .env
+data_mining/data/processed/*.csv
+data_mining/data/raw/*.csv
