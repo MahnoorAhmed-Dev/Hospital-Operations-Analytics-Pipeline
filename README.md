@@ -1,7 +1,6 @@
 # 🏥 Hospital Operations Analytics Pipeline
 
 **Project Status:** In Development  
-**License:** MIT  
 
 
 A **data-driven operational analytics pipeline** designed to help public hospitals reduce wait times, balance capacity, and improve patient experience through actionable analytics and forecasting (operational focus only — not clinical).
