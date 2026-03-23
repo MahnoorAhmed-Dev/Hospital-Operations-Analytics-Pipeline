@@ -1,5 +1,6 @@
 .env
 data_mining/data/processed/*.csv
+data_mining/data/processed/clusters/*.csv
 data_mining/data/raw/*.csv
 __pycache__/
 *.pyc
